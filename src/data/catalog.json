@@ -110,10 +110,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": -2,
-      "avgConsumption": 85,
-      "stockStatus": "critical",
-      "monthsRemaining": 0,
+      "currentStock": 193,
+      "avgConsumption": 83.86,
+      "stockStatus": "adequate",
+      "monthsRemaining": 2.3,
       "lastUpdated": "2025-09-08T10:33:19.158+00:00"
     },
     "consumptionHistory": {
@@ -136,15 +136,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 77
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 419,
-      "averageMonthly": 69.83,
+      "totalConsumption": 496,
+      "averageMonthly": 82.67,
       "trend": "decreasing"
     }
   },
@@ -166,10 +166,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 163,
-      "avgConsumption": 22.25,
-      "stockStatus": "high",
-      "monthsRemaining": 7.3,
+      "currentStock": 126,
+      "avgConsumption": 25.2,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5,
       "lastUpdated": "2025-09-08T10:33:25.936+00:00"
     },
     "consumptionHistory": {
@@ -192,16 +192,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 37
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 89,
-      "averageMonthly": 14.83,
-      "trend": "decreasing"
+      "totalConsumption": 126,
+      "averageMonthly": 21,
+      "trend": "stable"
     }
   },
   {
@@ -224,10 +224,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 206,
-      "avgConsumption": 19.25,
+      "currentStock": 166,
+      "avgConsumption": 23.4,
       "stockStatus": "high",
-      "monthsRemaining": 10.7,
+      "monthsRemaining": 7.1,
       "lastUpdated": "2025-09-08T10:33:25.647+00:00"
     },
     "consumptionHistory": {
@@ -250,16 +250,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 40
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 77,
-      "averageMonthly": 12.83,
-      "trend": "decreasing"
+      "totalConsumption": 117,
+      "averageMonthly": 19.5,
+      "trend": "increasing"
     }
   },
   {
@@ -280,10 +280,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 441,
-      "avgConsumption": 22,
+      "currentStock": 385,
+      "avgConsumption": 28.8,
       "stockStatus": "high",
-      "monthsRemaining": 20,
+      "monthsRemaining": 13.4,
       "lastUpdated": "2025-09-08T10:33:25.408+00:00"
     },
     "consumptionHistory": {
@@ -306,16 +306,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 56
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 88,
-      "averageMonthly": 14.67,
-      "trend": "decreasing"
+      "totalConsumption": 144,
+      "averageMonthly": 24,
+      "trend": "increasing"
     }
   },
   {
@@ -336,10 +336,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 470,
-      "avgConsumption": 18,
+      "currentStock": 433,
+      "avgConsumption": 21.8,
       "stockStatus": "high",
-      "monthsRemaining": 26.1,
+      "monthsRemaining": 19.9,
       "lastUpdated": "2025-09-08T10:33:25.122+00:00"
     },
     "consumptionHistory": {
@@ -362,16 +362,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 37
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 72,
-      "averageMonthly": 12,
-      "trend": "decreasing"
+      "totalConsumption": 109,
+      "averageMonthly": 18.17,
+      "trend": "stable"
     }
   },
   {
@@ -395,10 +395,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 146,
-      "avgConsumption": 31.89,
+      "currentStock": 108,
+      "avgConsumption": 32.5,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.6,
+      "monthsRemaining": 3.3,
       "lastUpdated": "2025-07-04T17:28:58.069+00:00"
     },
     "consumptionHistory": {
@@ -421,16 +421,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 38
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 144,
-      "averageMonthly": 24,
-      "trend": "decreasing"
+      "totalConsumption": 182,
+      "averageMonthly": 30.33,
+      "trend": "stable"
     }
   },
   {
@@ -454,10 +454,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 70,
-      "avgConsumption": 29.6,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 41,
+      "avgConsumption": 29.5,
+      "stockStatus": "low",
+      "monthsRemaining": 1.4,
       "lastUpdated": "2025-07-04T17:28:58.197+00:00"
     },
     "consumptionHistory": {
@@ -480,15 +480,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 29
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 103,
-      "averageMonthly": 17.17,
+      "totalConsumption": 132,
+      "averageMonthly": 22,
       "trend": "decreasing"
     }
   },
@@ -514,10 +514,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 88,
-      "avgConsumption": 92.36,
+      "currentStock": 0,
+      "avgConsumption": 92,
       "stockStatus": "critical",
-      "monthsRemaining": 1,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:28:58.557+00:00"
     },
     "consumptionHistory": {
@@ -540,15 +540,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 88
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 318,
-      "averageMonthly": 53,
+      "totalConsumption": 406,
+      "averageMonthly": 67.67,
       "trend": "decreasing"
     }
   },
@@ -570,10 +570,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 92,
-      "avgConsumption": 47.75,
+      "currentStock": 68,
+      "avgConsumption": 43,
       "stockStatus": "low",
-      "monthsRemaining": 1.9,
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-09-08T10:33:22.784+00:00"
     },
     "consumptionHistory": {
@@ -596,15 +596,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 24
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 191,
-      "averageMonthly": 31.83,
+      "totalConsumption": 215,
+      "averageMonthly": 35.83,
       "trend": "decreasing"
     }
   },
@@ -629,10 +629,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 426,
-      "avgConsumption": 93.64,
+      "currentStock": 249,
+      "avgConsumption": 100.58,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.5,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:28:59.037+00:00"
     },
     "consumptionHistory": {
@@ -655,16 +655,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 177
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 285,
-      "averageMonthly": 47.5,
-      "trend": "stable"
+      "totalConsumption": 462,
+      "averageMonthly": 77,
+      "trend": "increasing"
     }
   },
   {
@@ -685,10 +685,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 148,
-      "avgConsumption": 42.5,
+      "currentStock": 123,
+      "avgConsumption": 39,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.5,
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-09-08T10:33:22.525+00:00"
     },
     "consumptionHistory": {
@@ -711,15 +711,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 25
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 170,
-      "averageMonthly": 28.33,
+      "totalConsumption": 195,
+      "averageMonthly": 32.5,
       "trend": "decreasing"
     }
   },
@@ -741,10 +741,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 113,
-      "avgConsumption": 44,
+      "currentStock": 90,
+      "avgConsumption": 38.75,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.6,
+      "monthsRemaining": 2.3,
       "lastUpdated": "2025-09-08T10:33:27.754+00:00"
     },
     "consumptionHistory": {
@@ -767,15 +767,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 23
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 132,
-      "averageMonthly": 22,
+      "totalConsumption": 155,
+      "averageMonthly": 25.83,
       "trend": "decreasing"
     }
   },
@@ -797,10 +797,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 159,
-      "avgConsumption": 25.75,
-      "stockStatus": "high",
-      "monthsRemaining": 6.2,
+      "currentStock": 122,
+      "avgConsumption": 28,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.4,
       "lastUpdated": "2025-09-08T10:33:27.514+00:00"
     },
     "consumptionHistory": {
@@ -823,15 +823,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 37
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 103,
-      "averageMonthly": 17.17,
+      "totalConsumption": 140,
+      "averageMonthly": 23.33,
       "trend": "decreasing"
     }
   },
@@ -853,10 +853,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 134,
-      "avgConsumption": 100,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 0,
+      "avgConsumption": 106.8,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-09-08T10:33:26.176+00:00"
     },
     "consumptionHistory": {
@@ -879,15 +879,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 134
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 400,
-      "averageMonthly": 66.67,
+      "totalConsumption": 534,
+      "averageMonthly": 89,
       "trend": "decreasing"
     }
   },
@@ -912,10 +912,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 156,
-      "avgConsumption": 25.5,
-      "stockStatus": "high",
-      "monthsRemaining": 6.1,
+      "currentStock": 127,
+      "avgConsumption": 26,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.9,
       "lastUpdated": "2025-09-08T10:33:17.235+00:00"
     },
     "consumptionHistory": {
@@ -938,15 +938,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 29
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 137,
-      "averageMonthly": 22.83,
+      "totalConsumption": 166,
+      "averageMonthly": 27.67,
       "trend": "decreasing"
     }
   },
@@ -972,10 +972,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 36,
-      "avgConsumption": 35.67,
-      "stockStatus": "low",
-      "monthsRemaining": 1,
+      "currentStock": 146,
+      "avgConsumption": 35.71,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.1,
       "lastUpdated": "2025-09-08T10:33:19.424+00:00"
     },
     "consumptionHistory": {
@@ -998,15 +998,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 36
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 194,
-      "averageMonthly": 32.33,
+      "totalConsumption": 230,
+      "averageMonthly": 38.33,
       "trend": "decreasing"
     }
   },
@@ -1028,10 +1028,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 334,
-      "avgConsumption": 49,
+      "currentStock": 308,
+      "avgConsumption": 44.4,
       "stockStatus": "high",
-      "monthsRemaining": 6.8,
+      "monthsRemaining": 6.9,
       "lastUpdated": "2025-09-08T10:33:26.979+00:00"
     },
     "consumptionHistory": {
@@ -1054,15 +1054,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 26
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 196,
-      "averageMonthly": 32.67,
+      "totalConsumption": 222,
+      "averageMonthly": 37,
       "trend": "decreasing"
     }
   },
@@ -1084,10 +1084,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 311,
-      "avgConsumption": 54,
+      "currentStock": 235,
+      "avgConsumption": 58.4,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.8,
+      "monthsRemaining": 4,
       "lastUpdated": "2025-09-08T10:33:26.699+00:00"
     },
     "consumptionHistory": {
@@ -1110,15 +1110,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 76
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 216,
-      "averageMonthly": 36,
+      "totalConsumption": 292,
+      "averageMonthly": 48.67,
       "trend": "decreasing"
     }
   },
@@ -1322,10 +1322,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 314,
-      "avgConsumption": 83.5,
+      "currentStock": 231,
+      "avgConsumption": 83.4,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.8,
+      "monthsRemaining": 2.8,
       "lastUpdated": "2025-09-08T10:33:24.587+00:00"
     },
     "consumptionHistory": {
@@ -1348,15 +1348,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 83
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 334,
-      "averageMonthly": 55.67,
+      "totalConsumption": 417,
+      "averageMonthly": 69.5,
       "trend": "decreasing"
     }
   },
@@ -1378,10 +1378,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 401,
+      "currentStock": 690,
       "avgConsumption": 83.5,
-      "stockStatus": "adequate",
-      "monthsRemaining": 4.8,
+      "stockStatus": "high",
+      "monthsRemaining": 8.3,
       "lastUpdated": "2025-09-08T10:33:23.564+00:00"
     },
     "consumptionHistory": {
@@ -1436,10 +1436,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 48,
-      "avgConsumption": 13.25,
+      "currentStock": 29,
+      "avgConsumption": 13.89,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.6,
+      "monthsRemaining": 2.1,
       "lastUpdated": "2025-07-04T17:28:57.391+00:00"
     },
     "consumptionHistory": {
@@ -1462,16 +1462,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 19
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 12,
-      "averageMonthly": 2,
-      "trend": "decreasing"
+      "totalConsumption": 31,
+      "averageMonthly": 5.17,
+      "trend": "increasing"
     }
   },
   {
@@ -1492,10 +1492,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 329,
-      "avgConsumption": 55.25,
+      "currentStock": 298,
+      "avgConsumption": 50.4,
       "stockStatus": "adequate",
-      "monthsRemaining": 6,
+      "monthsRemaining": 5.9,
       "lastUpdated": "2025-09-08T10:33:24.364+00:00"
     },
     "consumptionHistory": {
@@ -1518,15 +1518,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 31
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 221,
-      "averageMonthly": 36.83,
+      "totalConsumption": 252,
+      "averageMonthly": 42,
       "trend": "decreasing"
     }
   },
@@ -1728,10 +1728,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 42,
-      "avgConsumption": 21.83,
-      "stockStatus": "low",
-      "monthsRemaining": 1.9,
+      "currentStock": 0,
+      "avgConsumption": 24.71,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-09-08T10:33:21.22+00:00"
     },
     "consumptionHistory": {
@@ -1754,16 +1754,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 42
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 89,
-      "averageMonthly": 14.83,
-      "trend": "decreasing"
+      "totalConsumption": 131,
+      "averageMonthly": 21.83,
+      "trend": "stable"
     }
   },
   {
@@ -1906,10 +1906,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 697,
-      "avgConsumption": 56,
+      "currentStock": 588,
+      "avgConsumption": 60.42,
       "stockStatus": "high",
-      "monthsRemaining": 12.4,
+      "monthsRemaining": 9.7,
       "lastUpdated": "2025-07-04T17:28:59.692+00:00"
     },
     "consumptionHistory": {
@@ -1932,15 +1932,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 109
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 293,
-      "averageMonthly": 48.83,
+      "totalConsumption": 402,
+      "averageMonthly": 67,
       "trend": "decreasing"
     }
   },
@@ -1967,10 +1967,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 292,
-      "avgConsumption": 22,
+      "currentStock": 261,
+      "avgConsumption": 22.82,
       "stockStatus": "high",
-      "monthsRemaining": 13.3,
+      "monthsRemaining": 11.4,
       "lastUpdated": "2025-07-04T17:28:59.812+00:00"
     },
     "consumptionHistory": {
@@ -1993,15 +1993,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 31
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 73,
-      "averageMonthly": 12.17,
+      "totalConsumption": 104,
+      "averageMonthly": 17.33,
       "trend": "decreasing"
     }
   },
@@ -2027,10 +2027,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 202,
-      "avgConsumption": 34,
+      "currentStock": 102,
+      "avgConsumption": 39.08,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.9,
+      "monthsRemaining": 2.6,
       "lastUpdated": "2025-07-04T17:28:59.248+00:00"
     },
     "consumptionHistory": {
@@ -2053,16 +2053,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 100
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 109,
-      "averageMonthly": 18.17,
-      "trend": "decreasing"
+      "totalConsumption": 209,
+      "averageMonthly": 34.83,
+      "trend": "increasing"
     }
   },
   {
@@ -2087,10 +2087,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 463,
-      "avgConsumption": 31.38,
+      "currentStock": 438,
+      "avgConsumption": 30.67,
       "stockStatus": "high",
-      "monthsRemaining": 14.8,
+      "monthsRemaining": 14.3,
       "lastUpdated": "2025-07-04T17:28:59.351+00:00"
     },
     "consumptionHistory": {
@@ -2113,16 +2113,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 25
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 97,
-      "averageMonthly": 16.17,
-      "trend": "decreasing"
+      "totalConsumption": 122,
+      "averageMonthly": 20.33,
+      "trend": "increasing"
     }
   },
   {
@@ -2209,10 +2209,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 0,
+      "currentStock": 280,
       "avgConsumption": 43,
-      "stockStatus": "critical",
-      "monthsRemaining": 0,
+      "stockStatus": "high",
+      "monthsRemaining": 6.5,
       "lastUpdated": "2025-07-04T17:29:00.236+00:00"
     },
     "consumptionHistory": {
@@ -2384,10 +2384,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 515,
-      "avgConsumption": 30.56,
+      "currentStock": 468,
+      "avgConsumption": 32.2,
       "stockStatus": "high",
-      "monthsRemaining": 16.9,
+      "monthsRemaining": 14.5,
       "lastUpdated": "2025-07-04T17:28:58.311+00:00"
     },
     "consumptionHistory": {
@@ -2410,15 +2410,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 47
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 130,
-      "averageMonthly": 21.67,
+      "totalConsumption": 177,
+      "averageMonthly": 29.5,
       "trend": "decreasing"
     }
   },
@@ -2501,10 +2501,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 67,
-      "avgConsumption": 59.25,
-      "stockStatus": "low",
-      "monthsRemaining": 1.1,
+      "currentStock": 648,
+      "avgConsumption": 54.2,
+      "stockStatus": "high",
+      "monthsRemaining": 12,
       "lastUpdated": "2025-09-08T10:33:18.844+00:00"
     },
     "consumptionHistory": {
@@ -2527,15 +2527,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 34
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 237,
-      "averageMonthly": 39.5,
+      "totalConsumption": 271,
+      "averageMonthly": 45.17,
       "trend": "decreasing"
     }
   },
@@ -2557,10 +2557,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 250,
-      "avgConsumption": 71.5,
+      "currentStock": 184,
+      "avgConsumption": 70.4,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.5,
+      "monthsRemaining": 2.6,
       "lastUpdated": "2025-09-08T10:33:24.068+00:00"
     },
     "consumptionHistory": {
@@ -2583,15 +2583,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 66
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 286,
-      "averageMonthly": 47.67,
+      "totalConsumption": 352,
+      "averageMonthly": 58.67,
       "trend": "decreasing"
     }
   },
@@ -2675,10 +2675,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 136,
-      "avgConsumption": 32,
+      "currentStock": 129,
+      "avgConsumption": 29.22,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.3,
+      "monthsRemaining": 4.4,
       "lastUpdated": "2025-07-04T17:29:03.486+00:00"
     },
     "consumptionHistory": {
@@ -2701,15 +2701,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 7
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 94,
-      "averageMonthly": 15.67,
+      "totalConsumption": 101,
+      "averageMonthly": 16.83,
       "trend": "decreasing"
     }
   },
@@ -2791,10 +2791,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 219,
-      "avgConsumption": 12.5,
+      "currentStock": 186,
+      "avgConsumption": 15.43,
       "stockStatus": "high",
-      "monthsRemaining": 17.5,
+      "monthsRemaining": 12.1,
       "lastUpdated": "2025-07-04T17:28:57.95+00:00"
     },
     "consumptionHistory": {
@@ -2817,16 +2817,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 33
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 23,
-      "averageMonthly": 3.83,
-      "trend": "decreasing"
+      "totalConsumption": 56,
+      "averageMonthly": 9.33,
+      "trend": "increasing"
     }
   },
   {
@@ -2850,10 +2850,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 482,
-      "avgConsumption": 50.91,
+      "currentStock": 470,
+      "avgConsumption": 47.67,
       "stockStatus": "high",
-      "monthsRemaining": 9.5,
+      "monthsRemaining": 9.9,
       "lastUpdated": "2025-07-04T17:28:58.435+00:00"
     },
     "consumptionHistory": {
@@ -2876,15 +2876,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 12
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 260,
-      "averageMonthly": 43.33,
+      "totalConsumption": 272,
+      "averageMonthly": 45.33,
       "trend": "decreasing"
     }
   },
@@ -2906,10 +2906,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 245,
-      "avgConsumption": 76.75,
+      "currentStock": 171,
+      "avgConsumption": 76.2,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "monthsRemaining": 2.2,
       "lastUpdated": "2025-09-08T10:33:26.465+00:00"
     },
     "consumptionHistory": {
@@ -2932,15 +2932,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 74
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 307,
-      "averageMonthly": 51.17,
+      "totalConsumption": 381,
+      "averageMonthly": 63.5,
       "trend": "decreasing"
     }
   },
@@ -3082,10 +3082,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 397,
-      "avgConsumption": 47.75,
+      "currentStock": 342,
+      "avgConsumption": 49.2,
       "stockStatus": "high",
-      "monthsRemaining": 8.3,
+      "monthsRemaining": 7,
       "lastUpdated": "2025-09-08T10:33:18.61+00:00"
     },
     "consumptionHistory": {
@@ -3108,15 +3108,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 55
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 191,
-      "averageMonthly": 31.83,
+      "totalConsumption": 246,
+      "averageMonthly": 41,
       "trend": "decreasing"
     }
   },
@@ -3430,10 +3430,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 81,
-      "avgConsumption": 20.5,
+      "currentStock": 61,
+      "avgConsumption": 20.43,
       "stockStatus": "adequate",
-      "monthsRemaining": 4,
+      "monthsRemaining": 3,
       "lastUpdated": "2025-09-08T10:33:13.767+00:00"
     },
     "consumptionHistory": {
@@ -3456,15 +3456,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 97,
-      "averageMonthly": 16.17,
+      "totalConsumption": 117,
+      "averageMonthly": 19.5,
       "trend": "decreasing"
     }
   },
@@ -3488,10 +3488,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 223,
-      "avgConsumption": 4.75,
+      "currentStock": 203,
+      "avgConsumption": 7.8,
       "stockStatus": "high",
-      "monthsRemaining": 46.9,
+      "monthsRemaining": 26,
       "lastUpdated": "2025-09-08T10:33:14.021+00:00"
     },
     "consumptionHistory": {
@@ -3514,16 +3514,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 19,
-      "averageMonthly": 3.17,
-      "trend": "decreasing"
+      "totalConsumption": 39,
+      "averageMonthly": 6.5,
+      "trend": "stable"
     }
   },
   {
@@ -3546,10 +3546,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 302,
-      "avgConsumption": 8.4,
+      "currentStock": 272,
+      "avgConsumption": 12,
       "stockStatus": "high",
-      "monthsRemaining": 36,
+      "monthsRemaining": 22.7,
       "lastUpdated": "2025-09-08T10:33:14.291+00:00"
     },
     "consumptionHistory": {
@@ -3572,15 +3572,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 30
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 42,
-      "averageMonthly": 7,
+      "totalConsumption": 72,
+      "averageMonthly": 12,
       "trend": "decreasing"
     }
   },
@@ -3607,10 +3607,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 120,
-      "avgConsumption": 38.2,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "currentStock": 57,
+      "avgConsumption": 42.33,
+      "stockStatus": "low",
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-09-08T10:33:19.925+00:00"
     },
     "consumptionHistory": {
@@ -3633,16 +3633,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 63
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 130,
-      "averageMonthly": 21.67,
-      "trend": "decreasing"
+      "totalConsumption": 193,
+      "averageMonthly": 32.17,
+      "trend": "increasing"
     }
   },
   {
@@ -3668,10 +3668,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 40,
-      "avgConsumption": 17.6,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.3,
+      "currentStock": 23,
+      "avgConsumption": 17.5,
+      "stockStatus": "low",
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-09-08T10:33:19.671+00:00"
     },
     "consumptionHistory": {
@@ -3694,15 +3694,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 17
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 42,
-      "averageMonthly": 7,
+      "totalConsumption": 59,
+      "averageMonthly": 9.83,
       "trend": "stable"
     }
   },
@@ -3728,10 +3728,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 0,
-      "avgConsumption": 29,
-      "stockStatus": "critical",
-      "monthsRemaining": 0,
+      "currentStock": 139,
+      "avgConsumption": 28.14,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.9,
       "lastUpdated": "2025-09-08T10:33:21.433+00:00"
     },
     "consumptionHistory": {
@@ -3754,15 +3754,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 23
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 129,
-      "averageMonthly": 21.5,
+      "totalConsumption": 152,
+      "averageMonthly": 25.33,
       "trend": "decreasing"
     }
   },
@@ -3787,10 +3787,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 116,
-      "avgConsumption": 64,
+      "currentStock": 73,
+      "avgConsumption": 61,
       "stockStatus": "low",
-      "monthsRemaining": 1.8,
+      "monthsRemaining": 1.2,
       "lastUpdated": "2025-09-08T10:33:16.386+00:00"
     },
     "consumptionHistory": {
@@ -3813,15 +3813,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 43
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 256,
-      "averageMonthly": 42.67,
+      "totalConsumption": 299,
+      "averageMonthly": 49.83,
       "trend": "decreasing"
     }
   },
@@ -4259,10 +4259,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 36,
-      "avgConsumption": 19.2,
-      "stockStatus": "low",
-      "monthsRemaining": 1.9,
+      "currentStock": 148,
+      "avgConsumption": 19.17,
+      "stockStatus": "high",
+      "monthsRemaining": 7.7,
       "lastUpdated": "2025-09-08T10:33:15.585+00:00"
     },
     "consumptionHistory": {
@@ -4285,15 +4285,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 19
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 74,
-      "averageMonthly": 12.33,
+      "totalConsumption": 93,
+      "averageMonthly": 15.5,
       "trend": "increasing"
     }
   },
@@ -4377,8 +4377,8 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 215,
-      "avgConsumption": 16.5,
+      "currentStock": 204,
+      "avgConsumption": 15.71,
       "stockStatus": "high",
       "monthsRemaining": 13,
       "lastUpdated": "2025-09-08T10:33:16.108+00:00"
@@ -4403,15 +4403,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 11
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 85,
-      "averageMonthly": 14.17,
+      "totalConsumption": 96,
+      "averageMonthly": 16,
       "trend": "decreasing"
     }
   },
@@ -4436,10 +4436,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 215,
-      "avgConsumption": 11.67,
+      "currentStock": 194,
+      "avgConsumption": 13,
       "stockStatus": "high",
-      "monthsRemaining": 18.4,
+      "monthsRemaining": 14.9,
       "lastUpdated": "2025-09-08T10:33:15.865+00:00"
     },
     "consumptionHistory": {
@@ -4462,16 +4462,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 49,
-      "averageMonthly": 8.17,
-      "trend": "decreasing"
+      "totalConsumption": 70,
+      "averageMonthly": 11.67,
+      "trend": "increasing"
     }
   },
   {
@@ -4496,10 +4496,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 313,
-      "avgConsumption": 90.58,
+      "currentStock": 209,
+      "avgConsumption": 91.62,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.5,
+      "monthsRemaining": 2.3,
       "lastUpdated": "2025-07-04T17:29:01.191+00:00"
     },
     "consumptionHistory": {
@@ -4522,15 +4522,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 104
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 370,
-      "averageMonthly": 61.67,
+      "totalConsumption": 474,
+      "averageMonthly": 79,
       "trend": "decreasing"
     }
   },
@@ -4556,10 +4556,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 469,
-      "avgConsumption": 24.13,
+      "currentStock": 422,
+      "avgConsumption": 26.67,
       "stockStatus": "high",
-      "monthsRemaining": 19.4,
+      "monthsRemaining": 15.8,
       "lastUpdated": "2025-07-04T17:29:01.528+00:00"
     },
     "consumptionHistory": {
@@ -4582,15 +4582,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 47
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 72,
-      "averageMonthly": 12,
+      "totalConsumption": 119,
+      "averageMonthly": 19.83,
       "trend": "decreasing"
     }
   },
@@ -4616,10 +4616,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 197,
-      "avgConsumption": 31.27,
-      "stockStatus": "high",
-      "monthsRemaining": 6.3,
+      "currentStock": 176,
+      "avgConsumption": 30.42,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5.8,
       "lastUpdated": "2025-07-04T17:29:01.41+00:00"
     },
     "consumptionHistory": {
@@ -4642,15 +4642,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 140,
-      "averageMonthly": 23.33,
+      "totalConsumption": 161,
+      "averageMonthly": 26.83,
       "trend": "decreasing"
     }
   },
@@ -4674,10 +4674,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 422,
-      "avgConsumption": 21.83,
+      "currentStock": 418,
+      "avgConsumption": 19.29,
       "stockStatus": "high",
-      "monthsRemaining": 19.3,
+      "monthsRemaining": 21.7,
       "lastUpdated": "2025-07-04T17:29:02.402+00:00"
     },
     "consumptionHistory": {
@@ -4700,15 +4700,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 4
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 46,
-      "averageMonthly": 7.67,
+      "totalConsumption": 50,
+      "averageMonthly": 8.33,
       "trend": "increasing"
     }
   },
@@ -4733,10 +4733,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 229,
-      "avgConsumption": 28.67,
+      "currentStock": 197,
+      "avgConsumption": 29,
       "stockStatus": "high",
-      "monthsRemaining": 8,
+      "monthsRemaining": 6.8,
       "lastUpdated": "2025-07-04T17:29:02.293+00:00"
     },
     "consumptionHistory": {
@@ -4759,15 +4759,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 32
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 154,
-      "averageMonthly": 25.67,
+      "totalConsumption": 186,
+      "averageMonthly": 31,
       "trend": "decreasing"
     }
   },
@@ -4793,10 +4793,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 48,
-      "avgConsumption": 24,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2,
+      "currentStock": 26,
+      "avgConsumption": 23.75,
+      "stockStatus": "low",
+      "monthsRemaining": 1.1,
       "lastUpdated": "2025-07-04T17:29:02.517+00:00"
     },
     "consumptionHistory": {
@@ -4819,15 +4819,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 22
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 63,
-      "averageMonthly": 10.5,
+      "totalConsumption": 85,
+      "averageMonthly": 14.17,
       "trend": "increasing"
     }
   },
@@ -4912,10 +4912,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 350,
-      "avgConsumption": 15.29,
+      "currentStock": 343,
+      "avgConsumption": 14.25,
       "stockStatus": "high",
-      "monthsRemaining": 22.9,
+      "monthsRemaining": 24.1,
       "lastUpdated": "2025-07-04T17:29:02.179+00:00"
     },
     "consumptionHistory": {
@@ -4938,15 +4938,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 7
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 53,
-      "averageMonthly": 8.83,
+      "totalConsumption": 60,
+      "averageMonthly": 10,
       "trend": "decreasing"
     }
   },
@@ -5030,10 +5030,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 180,
-      "avgConsumption": 16.75,
+      "currentStock": 174,
+      "avgConsumption": 14.6,
       "stockStatus": "high",
-      "monthsRemaining": 10.7,
+      "monthsRemaining": 11.9,
       "lastUpdated": "2025-07-04T17:29:01.651+00:00"
     },
     "consumptionHistory": {
@@ -5056,15 +5056,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 6
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 18,
-      "averageMonthly": 3,
+      "totalConsumption": 24,
+      "averageMonthly": 4,
       "trend": "decreasing"
     }
   },
@@ -5088,10 +5088,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 43,
-      "avgConsumption": 14,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "currentStock": 16,
+      "avgConsumption": 15.63,
+      "stockStatus": "low",
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:03.711+00:00"
     },
     "consumptionHistory": {
@@ -5114,16 +5114,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 27
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 18,
-      "averageMonthly": 3,
-      "trend": "decreasing"
+      "totalConsumption": 45,
+      "averageMonthly": 7.5,
+      "trend": "increasing"
     }
   },
   {
@@ -5261,10 +5261,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 170,
-      "avgConsumption": 11,
+      "currentStock": 163,
+      "avgConsumption": 10.43,
       "stockStatus": "high",
-      "monthsRemaining": 15.5,
+      "monthsRemaining": 15.6,
       "lastUpdated": "2025-07-04T17:29:02.621+00:00"
     },
     "consumptionHistory": {
@@ -5287,16 +5287,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 7
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 23,
-      "averageMonthly": 3.83,
-      "trend": "decreasing"
+      "totalConsumption": 30,
+      "averageMonthly": 5,
+      "trend": "increasing"
     }
   },
   {
@@ -5378,10 +5378,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 30,
-      "avgConsumption": 19.67,
+      "currentStock": 19,
+      "avgConsumption": 18.8,
       "stockStatus": "low",
-      "monthsRemaining": 1.5,
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:03.818+00:00"
     },
     "consumptionHistory": {
@@ -5404,15 +5404,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 11
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 70,
-      "averageMonthly": 11.67,
+      "totalConsumption": 81,
+      "averageMonthly": 13.5,
       "trend": "decreasing"
     }
   },
@@ -5437,10 +5437,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 227,
-      "avgConsumption": 8.17,
+      "currentStock": 223,
+      "avgConsumption": 7.57,
       "stockStatus": "high",
-      "monthsRemaining": 27.8,
+      "monthsRemaining": 29.5,
       "lastUpdated": "2025-07-04T17:29:02.831+00:00"
     },
     "consumptionHistory": {
@@ -5463,15 +5463,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 4
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 0,
-      "averageMonthly": 0,
+      "totalConsumption": 4,
+      "averageMonthly": 0.67,
       "trend": "stable"
     }
   },
@@ -5496,10 +5496,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 236,
-      "avgConsumption": 10.67,
+      "currentStock": 226,
+      "avgConsumption": 10.5,
       "stockStatus": "high",
-      "monthsRemaining": 22.1,
+      "monthsRemaining": 21.5,
       "lastUpdated": "2025-07-04T17:29:02.946+00:00"
     },
     "consumptionHistory": {
@@ -5522,15 +5522,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 10
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 32,
-      "averageMonthly": 5.33,
+      "totalConsumption": 42,
+      "averageMonthly": 7,
       "trend": "decreasing"
     }
   },
@@ -5614,10 +5614,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 67,
-      "avgConsumption": 37.64,
-      "stockStatus": "low",
-      "monthsRemaining": 1.8,
+      "currentStock": 0,
+      "avgConsumption": 40.08,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:28:58.903+00:00"
     },
     "consumptionHistory": {
@@ -5640,16 +5640,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 67
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 173,
-      "averageMonthly": 28.83,
-      "trend": "decreasing"
+      "totalConsumption": 240,
+      "averageMonthly": 40,
+      "trend": "increasing"
     }
   },
   {
@@ -5674,10 +5674,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 53,
-      "avgConsumption": 41.08,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 0,
+      "avgConsumption": 42,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:28:58.775+00:00"
     },
     "consumptionHistory": {
@@ -5700,16 +5700,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 53
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 127,
-      "averageMonthly": 21.17,
-      "trend": "decreasing"
+      "totalConsumption": 180,
+      "averageMonthly": 30,
+      "trend": "stable"
     }
   },
   {
@@ -5792,10 +5792,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 60,
-      "avgConsumption": 16.5,
+      "currentStock": 51,
+      "avgConsumption": 15.43,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.6,
+      "monthsRemaining": 3.3,
       "lastUpdated": "2025-07-04T17:29:03.051+00:00"
     },
     "consumptionHistory": {
@@ -5818,15 +5818,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 9
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 20,
-      "averageMonthly": 3.33,
+      "totalConsumption": 29,
+      "averageMonthly": 4.83,
       "trend": "decreasing"
     }
   },
@@ -5851,10 +5851,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 130,
-      "avgConsumption": 11.33,
+      "currentStock": 114,
+      "avgConsumption": 12,
       "stockStatus": "high",
-      "monthsRemaining": 11.5,
+      "monthsRemaining": 9.5,
       "lastUpdated": "2025-07-04T17:29:03.156+00:00"
     },
     "consumptionHistory": {
@@ -5877,15 +5877,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 16
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 21,
-      "averageMonthly": 3.5,
+      "totalConsumption": 37,
+      "averageMonthly": 6.17,
       "trend": "decreasing"
     }
   },
@@ -5909,10 +5909,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 82,
-      "avgConsumption": 18.29,
+      "currentStock": 66,
+      "avgConsumption": 18,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.5,
+      "monthsRemaining": 3.7,
       "lastUpdated": "2025-07-04T17:28:58.67+00:00"
     },
     "consumptionHistory": {
@@ -5935,16 +5935,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 16
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 71,
-      "averageMonthly": 11.83,
-      "trend": "decreasing"
+      "totalConsumption": 87,
+      "averageMonthly": 14.5,
+      "trend": "increasing"
     }
   },
   {
@@ -6202,10 +6202,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 155,
-      "avgConsumption": 16.11,
+      "currentStock": 137,
+      "avgConsumption": 16.3,
       "stockStatus": "high",
-      "monthsRemaining": 9.6,
+      "monthsRemaining": 8.4,
       "lastUpdated": "2025-07-04T17:28:59.14+00:00"
     },
     "consumptionHistory": {
@@ -6228,15 +6228,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 18
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 46,
-      "averageMonthly": 7.67,
+      "totalConsumption": 64,
+      "averageMonthly": 10.67,
       "trend": "increasing"
     }
   },
@@ -6258,10 +6258,10 @@
       "Artis"
     ],
     "stockData": {
-      "currentStock": 239,
-      "avgConsumption": 29,
+      "currentStock": 214,
+      "avgConsumption": 28,
       "stockStatus": "high",
-      "monthsRemaining": 8.2,
+      "monthsRemaining": 7.6,
       "lastUpdated": "2025-09-08T10:33:24.882+00:00"
     },
     "consumptionHistory": {
@@ -6284,15 +6284,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 25
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 87,
-      "averageMonthly": 14.5,
+      "totalConsumption": 112,
+      "averageMonthly": 18.67,
       "trend": "decreasing"
     }
   },
@@ -6373,10 +6373,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 219,
-      "avgConsumption": 134.47,
+      "currentStock": 132,
+      "avgConsumption": 131.5,
       "stockStatus": "low",
-      "monthsRemaining": 1.6,
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:25.261+00:00"
     },
     "consumptionHistory": {
@@ -6399,15 +6399,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 87
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 435,
-      "averageMonthly": 72.5,
+      "totalConsumption": 522,
+      "averageMonthly": 87,
       "trend": "decreasing"
     }
   },
@@ -6429,10 +6429,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 581,
-      "avgConsumption": 133.69,
+      "currentStock": 503,
+      "avgConsumption": 130.41,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.3,
+      "monthsRemaining": 3.9,
       "lastUpdated": "2025-07-04T17:29:24.13+00:00"
     },
     "consumptionHistory": {
@@ -6455,15 +6455,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 78
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 416,
-      "averageMonthly": 69.33,
+      "totalConsumption": 494,
+      "averageMonthly": 82.33,
       "trend": "decreasing"
     }
   },
@@ -6489,10 +6489,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 226,
-      "avgConsumption": 152.94,
-      "stockStatus": "low",
-      "monthsRemaining": 1.5,
+      "currentStock": 483,
+      "avgConsumption": 153.06,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:11.43+00:00"
     },
     "consumptionHistory": {
@@ -6515,15 +6515,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 155
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 381,
-      "averageMonthly": 63.5,
+      "totalConsumption": 536,
+      "averageMonthly": 89.33,
       "trend": "decreasing"
     }
   },
@@ -6549,10 +6549,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 156,
-      "avgConsumption": 236.06,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.7,
+      "currentStock": 433,
+      "avgConsumption": 237.12,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:11.194+00:00"
     },
     "consumptionHistory": {
@@ -6575,15 +6575,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 254
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 921,
-      "averageMonthly": 153.5,
+      "totalConsumption": 1175,
+      "averageMonthly": 195.83,
       "trend": "decreasing"
     }
   },
@@ -6606,10 +6606,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 110,
-      "avgConsumption": 135.81,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 603,
+      "avgConsumption": 138.41,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.4,
       "lastUpdated": "2025-07-04T17:29:12.318+00:00"
     },
     "consumptionHistory": {
@@ -6632,15 +6632,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 180
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 533,
-      "averageMonthly": 88.83,
+      "totalConsumption": 713,
+      "averageMonthly": 118.83,
       "trend": "decreasing"
     }
   },
@@ -6668,10 +6668,10 @@
       "Liner"
     ],
     "stockData": {
-      "currentStock": 566,
-      "avgConsumption": 505.88,
+      "currentStock": 643,
+      "avgConsumption": 503.65,
       "stockStatus": "low",
-      "monthsRemaining": 1.1,
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-07-04T17:29:11.638+00:00"
     },
     "consumptionHistory": {
@@ -6694,15 +6694,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 468
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2434,
-      "averageMonthly": 405.67,
+      "totalConsumption": 2902,
+      "averageMonthly": 483.67,
       "trend": "decreasing"
     }
   },
@@ -6727,10 +6727,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 121,
-      "avgConsumption": 221.94,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 401,
+      "avgConsumption": 217.82,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:19.86+00:00"
     },
     "consumptionHistory": {
@@ -6753,15 +6753,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 152
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 729,
-      "averageMonthly": 121.5,
+      "totalConsumption": 881,
+      "averageMonthly": 146.83,
       "trend": "decreasing"
     }
   },
@@ -6784,10 +6784,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 257,
-      "avgConsumption": 69.8,
+      "currentStock": 179,
+      "avgConsumption": 70.31,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.7,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:22.472+00:00"
     },
     "consumptionHistory": {
@@ -6810,15 +6810,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 78
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 218,
-      "averageMonthly": 36.33,
+      "totalConsumption": 296,
+      "averageMonthly": 49.33,
       "trend": "decreasing"
     }
   },
@@ -6841,8 +6841,8 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 165,
-      "avgConsumption": 57.13,
+      "currentStock": 157,
+      "avgConsumption": 54.06,
       "stockStatus": "adequate",
       "monthsRemaining": 2.9,
       "lastUpdated": "2025-07-04T17:29:22.362+00:00"
@@ -6867,15 +6867,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 8
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 136,
-      "averageMonthly": 22.67,
+      "totalConsumption": 144,
+      "averageMonthly": 24,
       "trend": "decreasing"
     }
   },
@@ -6899,10 +6899,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 220,
-      "avgConsumption": 36,
+      "currentStock": 212,
+      "avgConsumption": 33.85,
       "stockStatus": "high",
-      "monthsRemaining": 6.1,
+      "monthsRemaining": 6.3,
       "lastUpdated": "2025-07-04T17:29:24.669+00:00"
     },
     "consumptionHistory": {
@@ -6925,15 +6925,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 8
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 39,
-      "averageMonthly": 6.5,
+      "totalConsumption": 47,
+      "averageMonthly": 7.83,
       "trend": "increasing"
     }
   },
@@ -6955,10 +6955,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 55,
-      "avgConsumption": 175.13,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.3,
+      "currentStock": 438,
+      "avgConsumption": 173.35,
+      "stockStatus": "adequate",
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:25.11+00:00"
     },
     "consumptionHistory": {
@@ -6981,15 +6981,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 145
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 560,
-      "averageMonthly": 93.33,
+      "totalConsumption": 705,
+      "averageMonthly": 117.5,
       "trend": "decreasing"
     }
   },
@@ -7012,10 +7012,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 177,
-      "avgConsumption": 234.31,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 432,
+      "avgConsumption": 237,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:24.454+00:00"
     },
     "consumptionHistory": {
@@ -7038,15 +7038,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 280
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 915,
-      "averageMonthly": 152.5,
+      "totalConsumption": 1195,
+      "averageMonthly": 199.17,
       "trend": "decreasing"
     }
   },
@@ -7069,10 +7069,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 748,
-      "avgConsumption": 587.75,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 120,
+      "avgConsumption": 590.12,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:23.909+00:00"
     },
     "consumptionHistory": {
@@ -7095,15 +7095,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 628
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2742,
-      "averageMonthly": 457,
+      "totalConsumption": 3370,
+      "averageMonthly": 561.67,
       "trend": "decreasing"
     }
   },
@@ -7126,10 +7126,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 93,
-      "avgConsumption": 184.38,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 445,
+      "avgConsumption": 186.24,
+      "stockStatus": "adequate",
+      "monthsRemaining": 2.4,
       "lastUpdated": "2025-07-04T17:29:25.477+00:00"
     },
     "consumptionHistory": {
@@ -7152,15 +7152,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 216
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 799,
-      "averageMonthly": 133.17,
+      "totalConsumption": 1015,
+      "averageMonthly": 169.17,
       "trend": "decreasing"
     }
   },
@@ -7183,10 +7183,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 234,
-      "avgConsumption": 174.94,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 116,
+      "avgConsumption": 171.59,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.7,
       "lastUpdated": "2025-07-04T17:29:25.369+00:00"
     },
     "consumptionHistory": {
@@ -7209,15 +7209,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 118
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 865,
-      "averageMonthly": 144.17,
+      "totalConsumption": 983,
+      "averageMonthly": 163.83,
       "trend": "decreasing"
     }
   },
@@ -7245,10 +7245,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 646,
-      "avgConsumption": 203.56,
+      "currentStock": 418,
+      "avgConsumption": 205,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:18.153+00:00"
     },
     "consumptionHistory": {
@@ -7271,15 +7271,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 228
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 849,
-      "averageMonthly": 141.5,
+      "totalConsumption": 1077,
+      "averageMonthly": 179.5,
       "trend": "decreasing"
     }
   },
@@ -7365,10 +7365,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 117,
-      "avgConsumption": 83.56,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 63,
+      "avgConsumption": 81.82,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.8,
       "lastUpdated": "2025-07-04T17:29:23+00:00"
     },
     "consumptionHistory": {
@@ -7391,15 +7391,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 54
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 401,
-      "averageMonthly": 66.83,
+      "totalConsumption": 455,
+      "averageMonthly": 75.83,
       "trend": "decreasing"
     }
   },
@@ -7426,10 +7426,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 337,
-      "avgConsumption": 77.6,
+      "currentStock": 219,
+      "avgConsumption": 80.13,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.3,
+      "monthsRemaining": 2.7,
       "lastUpdated": "2025-07-04T17:29:18.709+00:00"
     },
     "consumptionHistory": {
@@ -7452,15 +7452,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 118
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 368,
-      "averageMonthly": 61.33,
+      "totalConsumption": 486,
+      "averageMonthly": 81,
       "trend": "decreasing"
     }
   },
@@ -7486,10 +7486,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": -55,
-      "avgConsumption": 74,
-      "stockStatus": "critical",
-      "monthsRemaining": -0.7,
+      "currentStock": 281,
+      "avgConsumption": 80.88,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.5,
       "lastUpdated": "2025-07-04T17:29:18.591+00:00"
     },
     "consumptionHistory": {
@@ -7512,15 +7512,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 184
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 253,
-      "averageMonthly": 42.17,
+      "totalConsumption": 437,
+      "averageMonthly": 72.83,
       "trend": "decreasing"
     }
   },
@@ -7544,10 +7544,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 104,
-      "avgConsumption": 66.88,
+      "currentStock": 87,
+      "avgConsumption": 63.94,
       "stockStatus": "low",
-      "monthsRemaining": 1.6,
+      "monthsRemaining": 1.4,
       "lastUpdated": "2025-07-04T17:29:22.69+00:00"
     },
     "consumptionHistory": {
@@ -7570,15 +7570,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 17
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 299,
-      "averageMonthly": 49.83,
+      "totalConsumption": 316,
+      "averageMonthly": 52.67,
       "trend": "decreasing"
     }
   },
@@ -7602,10 +7602,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 61,
-      "avgConsumption": 57.53,
-      "stockStatus": "low",
-      "monthsRemaining": 1.1,
+      "currentStock": 33,
+      "avgConsumption": 55.69,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.6,
       "lastUpdated": "2025-07-04T17:29:22.793+00:00"
     },
     "consumptionHistory": {
@@ -7628,15 +7628,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 28
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 194,
-      "averageMonthly": 32.33,
+      "totalConsumption": 222,
+      "averageMonthly": 37,
       "trend": "decreasing"
     }
   },
@@ -7663,10 +7663,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 197,
-      "avgConsumption": 417.25,
+      "currentStock": 283,
+      "avgConsumption": 419.12,
       "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "monthsRemaining": 0.7,
       "lastUpdated": "2025-07-04T17:29:11.749+00:00"
     },
     "consumptionHistory": {
@@ -7689,15 +7689,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 449
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1860,
-      "averageMonthly": 310,
+      "totalConsumption": 2309,
+      "averageMonthly": 384.83,
       "trend": "decreasing"
     }
   },
@@ -7724,10 +7724,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 46,
-      "avgConsumption": 210.88,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.2,
+      "currentStock": 286,
+      "avgConsumption": 214,
+      "stockStatus": "low",
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-07-04T17:29:18.469+00:00"
     },
     "consumptionHistory": {
@@ -7750,15 +7750,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 264
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 838,
-      "averageMonthly": 139.67,
+      "totalConsumption": 1102,
+      "averageMonthly": 183.67,
       "trend": "decreasing"
     }
   },
@@ -7790,10 +7790,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 1829,
-      "avgConsumption": 362.31,
+      "currentStock": 1488,
+      "avgConsumption": 361.06,
       "stockStatus": "adequate",
-      "monthsRemaining": 5,
+      "monthsRemaining": 4.1,
       "lastUpdated": "2025-07-04T17:29:17.911+00:00"
     },
     "consumptionHistory": {
@@ -7816,15 +7816,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 341
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1097,
-      "averageMonthly": 182.83,
+      "totalConsumption": 1438,
+      "averageMonthly": 239.67,
       "trend": "decreasing"
     }
   },
@@ -7846,10 +7846,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 95,
-      "avgConsumption": 114,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 163,
+      "avgConsumption": 117.47,
+      "stockStatus": "low",
+      "monthsRemaining": 1.4,
       "lastUpdated": "2025-07-04T17:29:24.35+00:00"
     },
     "consumptionHistory": {
@@ -7872,15 +7872,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 173
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 442,
-      "averageMonthly": 73.67,
+      "totalConsumption": 615,
+      "averageMonthly": 102.5,
       "trend": "decreasing"
     }
   },
@@ -7905,10 +7905,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 446,
-      "avgConsumption": 182.13,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 284,
+      "avgConsumption": 180.94,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:23.456+00:00"
     },
     "consumptionHistory": {
@@ -7931,15 +7931,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 162
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 762,
-      "averageMonthly": 127,
+      "totalConsumption": 924,
+      "averageMonthly": 154,
       "trend": "decreasing"
     }
   },
@@ -7961,10 +7961,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 289,
-      "avgConsumption": 86.53,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.3,
+      "currentStock": 145,
+      "avgConsumption": 90.13,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:24.232+00:00"
     },
     "consumptionHistory": {
@@ -7987,15 +7987,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 144
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 314,
-      "averageMonthly": 52.33,
+      "totalConsumption": 458,
+      "averageMonthly": 76.33,
       "trend": "decreasing"
     }
   },
@@ -8022,10 +8022,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 99,
-      "avgConsumption": 91.69,
+      "currentStock": 180,
+      "avgConsumption": 93.88,
       "stockStatus": "low",
-      "monthsRemaining": 1.1,
+      "monthsRemaining": 1.9,
       "lastUpdated": "2025-07-04T17:29:16.369+00:00"
     },
     "consumptionHistory": {
@@ -8048,15 +8048,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 129
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 275,
-      "averageMonthly": 45.83,
+      "totalConsumption": 404,
+      "averageMonthly": 67.33,
       "trend": "decreasing"
     }
   },
@@ -8083,10 +8083,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 69,
-      "avgConsumption": 72.88,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.9,
+      "currentStock": 302,
+      "avgConsumption": 71,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.3,
       "lastUpdated": "2025-07-04T17:29:16.051+00:00"
     },
     "consumptionHistory": {
@@ -8109,15 +8109,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 41
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 303,
-      "averageMonthly": 50.5,
+      "totalConsumption": 344,
+      "averageMonthly": 57.33,
       "trend": "decreasing"
     }
   },
@@ -8142,10 +8142,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 205,
-      "avgConsumption": 52.27,
+      "currentStock": 168,
+      "avgConsumption": 51.31,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.9,
+      "monthsRemaining": 3.3,
       "lastUpdated": "2025-07-04T17:29:24.771+00:00"
     },
     "consumptionHistory": {
@@ -8168,15 +8168,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 37
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 161,
-      "averageMonthly": 26.83,
+      "totalConsumption": 198,
+      "averageMonthly": 33,
       "trend": "decreasing"
     }
   },
@@ -8201,10 +8201,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 135,
-      "avgConsumption": 48.19,
+      "currentStock": 123,
+      "avgConsumption": 46.06,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "monthsRemaining": 2.7,
       "lastUpdated": "2025-07-04T17:29:24.884+00:00"
     },
     "consumptionHistory": {
@@ -8227,15 +8227,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 12
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 111,
-      "averageMonthly": 18.5,
+      "totalConsumption": 123,
+      "averageMonthly": 20.5,
       "trend": "decreasing"
     }
   },
@@ -8261,10 +8261,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 431,
-      "avgConsumption": 58.38,
-      "stockStatus": "high",
-      "monthsRemaining": 7.4,
+      "currentStock": 335,
+      "avgConsumption": 60.59,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5.5,
       "lastUpdated": "2025-07-04T17:29:23.228+00:00"
     },
     "consumptionHistory": {
@@ -8287,15 +8287,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 96
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 224,
-      "averageMonthly": 37.33,
+      "totalConsumption": 320,
+      "averageMonthly": 53.33,
       "trend": "decreasing"
     }
   },
@@ -8318,10 +8318,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 510,
-      "avgConsumption": 96.81,
+      "currentStock": 376,
+      "avgConsumption": 99,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.3,
+      "monthsRemaining": 3.8,
       "lastUpdated": "2025-07-04T17:29:24.01+00:00"
     },
     "consumptionHistory": {
@@ -8344,15 +8344,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 134
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 317,
-      "averageMonthly": 52.83,
+      "totalConsumption": 451,
+      "averageMonthly": 75.17,
       "trend": "decreasing"
     }
   },
@@ -8378,10 +8378,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 458,
-      "avgConsumption": 102.81,
+      "currentStock": 382,
+      "avgConsumption": 101.24,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.5,
+      "monthsRemaining": 3.8,
       "lastUpdated": "2025-07-04T17:29:18.809+00:00"
     },
     "consumptionHistory": {
@@ -8404,15 +8404,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 76
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 453,
-      "averageMonthly": 75.5,
+      "totalConsumption": 529,
+      "averageMonthly": 88.17,
       "trend": "decreasing"
     }
   },
@@ -8441,10 +8441,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 253,
-      "avgConsumption": 118.56,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.1,
+      "currentStock": 182,
+      "avgConsumption": 115.76,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:18.916+00:00"
     },
     "consumptionHistory": {
@@ -8467,15 +8467,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 71
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 335,
-      "averageMonthly": 55.83,
+      "totalConsumption": 406,
+      "averageMonthly": 67.67,
       "trend": "decreasing"
     }
   },
@@ -8499,10 +8499,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 154,
-      "avgConsumption": 37.27,
+      "currentStock": 143,
+      "avgConsumption": 35.63,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.1,
+      "monthsRemaining": 4,
       "lastUpdated": "2025-07-04T17:29:13.837+00:00"
     },
     "consumptionHistory": {
@@ -8525,15 +8525,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 11
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 95,
-      "averageMonthly": 15.83,
+      "totalConsumption": 106,
+      "averageMonthly": 17.67,
       "trend": "decreasing"
     }
   },
@@ -8615,10 +8615,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 371,
-      "avgConsumption": 43.75,
+      "currentStock": 323,
+      "avgConsumption": 44.08,
       "stockStatus": "high",
-      "monthsRemaining": 8.5,
+      "monthsRemaining": 7.3,
       "lastUpdated": "2025-07-04T17:29:24.996+00:00"
     },
     "consumptionHistory": {
@@ -8641,15 +8641,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 48
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 103,
-      "averageMonthly": 17.17,
+      "totalConsumption": 151,
+      "averageMonthly": 25.17,
       "trend": "decreasing"
     }
   },
@@ -8759,10 +8759,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 489,
-      "avgConsumption": 249.81,
-      "stockStatus": "low",
-      "monthsRemaining": 2,
+      "currentStock": 188,
+      "avgConsumption": 252.82,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.7,
       "lastUpdated": "2025-07-04T17:29:23.807+00:00"
     },
     "consumptionHistory": {
@@ -8785,15 +8785,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 301
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 921,
-      "averageMonthly": 153.5,
+      "totalConsumption": 1222,
+      "averageMonthly": 203.67,
       "trend": "decreasing"
     }
   },
@@ -8882,10 +8882,10 @@
       "Liner"
     ],
     "stockData": {
-      "currentStock": 429,
-      "avgConsumption": 177.69,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 312,
+      "avgConsumption": 174.12,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:12.091+00:00"
     },
     "consumptionHistory": {
@@ -8908,15 +8908,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 117
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1021,
-      "averageMonthly": 170.17,
+      "totalConsumption": 1138,
+      "averageMonthly": 189.67,
       "trend": "decreasing"
     }
   },
@@ -8938,10 +8938,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 435,
-      "avgConsumption": 180.25,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 174,
+      "avgConsumption": 185,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.9,
       "lastUpdated": "2025-07-04T17:29:23.693+00:00"
     },
     "consumptionHistory": {
@@ -8964,15 +8964,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 261
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 730,
-      "averageMonthly": 121.67,
+      "totalConsumption": 991,
+      "averageMonthly": 165.17,
       "trend": "decreasing"
     }
   },
@@ -9180,10 +9180,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 135,
-      "avgConsumption": 382.13,
+      "currentStock": 0,
+      "avgConsumption": 384.12,
       "stockStatus": "critical",
-      "monthsRemaining": 0.4,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:19.493+00:00"
     },
     "consumptionHistory": {
@@ -9206,15 +9206,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 416
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1571,
-      "averageMonthly": 261.83,
+      "totalConsumption": 1987,
+      "averageMonthly": 331.17,
       "trend": "decreasing"
     }
   },
@@ -9242,10 +9242,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 358,
-      "avgConsumption": 724.13,
+      "currentStock": 126,
+      "avgConsumption": 726.65,
       "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:10.316+00:00"
     },
     "consumptionHistory": {
@@ -9268,15 +9268,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 767
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2899,
-      "averageMonthly": 483.17,
+      "totalConsumption": 3666,
+      "averageMonthly": 611,
       "trend": "decreasing"
     }
   },
@@ -9299,10 +9299,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 428,
-      "avgConsumption": 42.36,
+      "currentStock": 366,
+      "avgConsumption": 43.67,
       "stockStatus": "high",
-      "monthsRemaining": 10.1,
+      "monthsRemaining": 8.4,
       "lastUpdated": "2025-07-04T17:29:12.904+00:00"
     },
     "consumptionHistory": {
@@ -9325,15 +9325,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 62
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 88,
-      "averageMonthly": 14.67,
+      "totalConsumption": 150,
+      "averageMonthly": 25,
       "trend": "decreasing"
     }
   },
@@ -9356,10 +9356,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 100,
-      "avgConsumption": 168.6,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.6,
+      "currentStock": 342,
+      "avgConsumption": 171.81,
+      "stockStatus": "low",
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:12.431+00:00"
     },
     "consumptionHistory": {
@@ -9382,15 +9382,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 220
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 917,
-      "averageMonthly": 152.83,
+      "totalConsumption": 1137,
+      "averageMonthly": 189.5,
       "trend": "decreasing"
     }
   },
@@ -9413,10 +9413,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 421,
-      "avgConsumption": 119.93,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.5,
+      "currentStock": 234,
+      "avgConsumption": 124.13,
+      "stockStatus": "low",
+      "monthsRemaining": 1.9,
       "lastUpdated": "2025-07-04T17:29:12.717+00:00"
     },
     "consumptionHistory": {
@@ -9439,15 +9439,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 187
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 621,
-      "averageMonthly": 103.5,
+      "totalConsumption": 808,
+      "averageMonthly": 134.67,
       "trend": "decreasing"
     }
   },
@@ -9502,10 +9502,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 122,
-      "avgConsumption": 43,
+      "currentStock": 101,
+      "avgConsumption": 41.17,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:21.802+00:00"
     },
     "consumptionHistory": {
@@ -9528,15 +9528,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 101,
-      "averageMonthly": 16.83,
+      "totalConsumption": 122,
+      "averageMonthly": 20.33,
       "trend": "decreasing"
     }
   },
@@ -9561,10 +9561,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 48,
-      "avgConsumption": 94.13,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 332,
+      "avgConsumption": 92.65,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.6,
       "lastUpdated": "2025-07-04T17:29:21.691+00:00"
     },
     "consumptionHistory": {
@@ -9587,15 +9587,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 69
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 399,
-      "averageMonthly": 66.5,
+      "totalConsumption": 468,
+      "averageMonthly": 78,
       "trend": "decreasing"
     }
   },
@@ -9620,10 +9620,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 233,
-      "avgConsumption": 32.08,
+      "currentStock": 206,
+      "avgConsumption": 31.71,
       "stockStatus": "high",
-      "monthsRemaining": 7.3,
+      "monthsRemaining": 6.5,
       "lastUpdated": "2025-07-04T17:29:22.031+00:00"
     },
     "consumptionHistory": {
@@ -9646,15 +9646,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 27
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 39,
-      "averageMonthly": 6.5,
+      "totalConsumption": 66,
+      "averageMonthly": 11,
       "trend": "decreasing"
     }
   },
@@ -9797,10 +9797,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 449,
-      "avgConsumption": 310.44,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 287,
+      "avgConsumption": 301.71,
+      "stockStatus": "critical",
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:20.69+00:00"
     },
     "consumptionHistory": {
@@ -9823,15 +9823,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 162
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1167,
-      "averageMonthly": 194.5,
+      "totalConsumption": 1329,
+      "averageMonthly": 221.5,
       "trend": "decreasing"
     }
   },
@@ -9856,10 +9856,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 239,
-      "avgConsumption": 249.75,
+      "currentStock": 125,
+      "avgConsumption": 241.76,
       "stockStatus": "critical",
-      "monthsRemaining": 1,
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:20.796+00:00"
     },
     "consumptionHistory": {
@@ -9882,15 +9882,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 114
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1157,
-      "averageMonthly": 192.83,
+      "totalConsumption": 1271,
+      "averageMonthly": 211.83,
       "trend": "decreasing"
     }
   },
@@ -9915,10 +9915,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 129,
-      "avgConsumption": 49.27,
+      "currentStock": 116,
+      "avgConsumption": 47,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.6,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:20.902+00:00"
     },
     "consumptionHistory": {
@@ -9941,15 +9941,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 13
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 123,
-      "averageMonthly": 20.5,
+      "totalConsumption": 136,
+      "averageMonthly": 22.67,
       "trend": "decreasing"
     }
   },
@@ -9974,10 +9974,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 119,
-      "avgConsumption": 38.79,
+      "currentStock": 104,
+      "avgConsumption": 37.2,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "monthsRemaining": 2.8,
       "lastUpdated": "2025-07-04T17:29:21.041+00:00"
     },
     "consumptionHistory": {
@@ -10000,15 +10000,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 15
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 68,
-      "averageMonthly": 11.33,
+      "totalConsumption": 83,
+      "averageMonthly": 13.83,
       "trend": "decreasing"
     }
   },
@@ -10033,10 +10033,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": -35,
-      "avgConsumption": 61.29,
+      "currentStock": -45,
+      "avgConsumption": 57.87,
       "stockStatus": "critical",
-      "monthsRemaining": -0.6,
+      "monthsRemaining": -0.8,
       "lastUpdated": "2025-07-04T17:29:21.157+00:00"
     },
     "consumptionHistory": {
@@ -10059,15 +10059,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 10
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 189,
-      "averageMonthly": 31.5,
+      "totalConsumption": 199,
+      "averageMonthly": 33.17,
       "trend": "decreasing"
     }
   },
@@ -10152,10 +10152,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 518,
-      "avgConsumption": 73.88,
-      "stockStatus": "high",
-      "monthsRemaining": 7,
+      "currentStock": 401,
+      "avgConsumption": 76.41,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5.2,
       "lastUpdated": "2025-07-04T17:29:10.435+00:00"
     },
     "consumptionHistory": {
@@ -10178,16 +10178,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 117
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 266,
-      "averageMonthly": 44.33,
-      "trend": "decreasing"
+      "totalConsumption": 383,
+      "averageMonthly": 63.83,
+      "trend": "stable"
     }
   },
   {
@@ -10212,10 +10212,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 779,
-      "avgConsumption": 283.38,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.7,
+      "currentStock": 478,
+      "avgConsumption": 284.41,
+      "stockStatus": "low",
+      "monthsRemaining": 1.7,
       "lastUpdated": "2025-07-04T17:29:10.211+00:00"
     },
     "consumptionHistory": {
@@ -10238,15 +10238,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 301
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1039,
-      "averageMonthly": 173.17,
+      "totalConsumption": 1340,
+      "averageMonthly": 223.33,
       "trend": "decreasing"
     }
   },
@@ -10272,10 +10272,10 @@
       "Liner"
     ],
     "stockData": {
-      "currentStock": 508,
-      "avgConsumption": 92.75,
+      "currentStock": 402,
+      "avgConsumption": 93.53,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.5,
+      "monthsRemaining": 4.3,
       "lastUpdated": "2025-07-04T17:29:11.892+00:00"
     },
     "consumptionHistory": {
@@ -10298,15 +10298,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 106
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 208,
-      "averageMonthly": 34.67,
+      "totalConsumption": 314,
+      "averageMonthly": 52.33,
       "trend": "decreasing"
     }
   },
@@ -10332,10 +10332,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 442,
-      "avgConsumption": 66.19,
+      "currentStock": 404,
+      "avgConsumption": 64.53,
       "stockStatus": "high",
-      "monthsRemaining": 6.7,
+      "monthsRemaining": 6.3,
       "lastUpdated": "2025-07-04T17:29:11.317+00:00"
     },
     "consumptionHistory": {
@@ -10358,15 +10358,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 38
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 265,
-      "averageMonthly": 44.17,
+      "totalConsumption": 303,
+      "averageMonthly": 50.5,
       "trend": "decreasing"
     }
   },
@@ -10391,10 +10391,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 108,
-      "avgConsumption": 29.07,
+      "currentStock": 88,
+      "avgConsumption": 28.47,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.7,
+      "monthsRemaining": 3.1,
       "lastUpdated": "2025-07-04T17:29:10.757+00:00"
     },
     "consumptionHistory": {
@@ -10417,15 +10417,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 136,
-      "averageMonthly": 22.67,
+      "totalConsumption": 156,
+      "averageMonthly": 26,
       "trend": "decreasing"
     }
   },
@@ -10509,10 +10509,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 155,
-      "avgConsumption": 63.13,
+      "currentStock": 129,
+      "avgConsumption": 60.94,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.5,
+      "monthsRemaining": 2.1,
       "lastUpdated": "2025-07-04T17:29:10.961+00:00"
     },
     "consumptionHistory": {
@@ -10535,15 +10535,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 26
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 194,
-      "averageMonthly": 32.33,
+      "totalConsumption": 220,
+      "averageMonthly": 36.67,
       "trend": "decreasing"
     }
   },
@@ -10568,10 +10568,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 414,
-      "avgConsumption": 26.17,
+      "currentStock": 384,
+      "avgConsumption": 26.46,
       "stockStatus": "high",
-      "monthsRemaining": 15.8,
+      "monthsRemaining": 14.5,
       "lastUpdated": "2025-07-04T17:29:12.213+00:00"
     },
     "consumptionHistory": {
@@ -10594,15 +10594,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 30
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 46,
-      "averageMonthly": 7.67,
+      "totalConsumption": 76,
+      "averageMonthly": 12.67,
       "trend": "decreasing"
     }
   },
@@ -10628,10 +10628,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 212,
-      "avgConsumption": 56,
+      "currentStock": 144,
+      "avgConsumption": 56.75,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.8,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:10.647+00:00"
     },
     "consumptionHistory": {
@@ -10654,15 +10654,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 68
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 170,
-      "averageMonthly": 28.33,
+      "totalConsumption": 238,
+      "averageMonthly": 39.67,
       "trend": "decreasing"
     }
   },
@@ -10688,10 +10688,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 70,
-      "avgConsumption": 55.07,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 25,
+      "avgConsumption": 54.4,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:10.543+00:00"
     },
     "consumptionHistory": {
@@ -10714,15 +10714,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 45
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 114,
-      "averageMonthly": 19,
+      "totalConsumption": 159,
+      "averageMonthly": 26.5,
       "trend": "decreasing"
     }
   },
@@ -10748,10 +10748,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 187,
-      "avgConsumption": 17.8,
+      "currentStock": 167,
+      "avgConsumption": 18.17,
       "stockStatus": "high",
-      "monthsRemaining": 10.5,
+      "monthsRemaining": 9.2,
       "lastUpdated": "2025-07-04T17:29:11.071+00:00"
     },
     "consumptionHistory": {
@@ -10774,16 +10774,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 23,
-      "averageMonthly": 3.83,
-      "trend": "decreasing"
+      "totalConsumption": 43,
+      "averageMonthly": 7.17,
+      "trend": "increasing"
     }
   },
   {
@@ -10808,10 +10808,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 260,
-      "avgConsumption": 48.8,
+      "currentStock": 239,
+      "avgConsumption": 47.06,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.3,
+      "monthsRemaining": 5.1,
       "lastUpdated": "2025-07-04T17:29:10.859+00:00"
     },
     "consumptionHistory": {
@@ -10834,15 +10834,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 146,
-      "averageMonthly": 24.33,
+      "totalConsumption": 167,
+      "averageMonthly": 27.83,
       "trend": "decreasing"
     }
   },
@@ -10867,10 +10867,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 97,
-      "avgConsumption": 79.6,
-      "stockStatus": "low",
-      "monthsRemaining": 1.2,
+      "currentStock": 257,
+      "avgConsumption": 80.69,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:19.972+00:00"
     },
     "consumptionHistory": {
@@ -10893,15 +10893,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 97
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 232,
-      "averageMonthly": 38.67,
+      "totalConsumption": 329,
+      "averageMonthly": 54.83,
       "trend": "decreasing"
     }
   },
@@ -10926,10 +10926,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 189,
-      "avgConsumption": 76.38,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.5,
+      "currentStock": 147,
+      "avgConsumption": 74.35,
+      "stockStatus": "low",
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:20.09+00:00"
     },
     "consumptionHistory": {
@@ -10952,15 +10952,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 42
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 280,
-      "averageMonthly": 46.67,
+      "totalConsumption": 322,
+      "averageMonthly": 53.67,
       "trend": "decreasing"
     }
   },
@@ -11044,10 +11044,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 194,
-      "avgConsumption": 138.69,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 69,
+      "avgConsumption": 137.88,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:20.562+00:00"
     },
     "consumptionHistory": {
@@ -11070,15 +11070,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 125
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 516,
-      "averageMonthly": 86,
+      "totalConsumption": 641,
+      "averageMonthly": 106.83,
       "trend": "decreasing"
     }
   },
@@ -11219,10 +11219,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 1127,
-      "avgConsumption": 74.88,
+      "currentStock": 1028,
+      "avgConsumption": 76.29,
       "stockStatus": "high",
-      "monthsRemaining": 15.1,
+      "monthsRemaining": 13.5,
       "lastUpdated": "2025-07-04T17:29:19.731+00:00"
     },
     "consumptionHistory": {
@@ -11245,15 +11245,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 99
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 583,
-      "averageMonthly": 97.17,
+      "totalConsumption": 682,
+      "averageMonthly": 113.67,
       "trend": "decreasing"
     }
   },
@@ -11546,10 +11546,10 @@
       "Artvio"
     ],
     "stockData": {
-      "currentStock": 42,
-      "avgConsumption": 15.91,
+      "currentStock": 35,
+      "avgConsumption": 15.17,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.6,
+      "monthsRemaining": 2.3,
       "lastUpdated": "2025-07-04T17:29:23.576+00:00"
     },
     "consumptionHistory": {
@@ -11572,15 +11572,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 7
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 14,
-      "averageMonthly": 2.33,
+      "totalConsumption": 21,
+      "averageMonthly": 3.5,
       "trend": "decreasing"
     }
   },
@@ -11605,10 +11605,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 111,
-      "avgConsumption": 72.81,
-      "stockStatus": "low",
-      "monthsRemaining": 1.5,
+      "currentStock": 0,
+      "avgConsumption": 75.06,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:19.372+00:00"
     },
     "consumptionHistory": {
@@ -11631,15 +11631,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 111
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 224,
-      "averageMonthly": 37.33,
+      "totalConsumption": 335,
+      "averageMonthly": 55.83,
       "trend": "decreasing"
     }
   },
@@ -11723,10 +11723,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 500,
-      "avgConsumption": 158.69,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "currentStock": 243,
+      "avgConsumption": 164.47,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:19.601+00:00"
     },
     "consumptionHistory": {
@@ -11749,15 +11749,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 257
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 554,
-      "averageMonthly": 92.33,
+      "totalConsumption": 811,
+      "averageMonthly": 135.17,
       "trend": "decreasing"
     }
   },
@@ -11812,10 +11812,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 348,
-      "avgConsumption": 41.06,
+      "currentStock": 326,
+      "avgConsumption": 39.94,
       "stockStatus": "high",
-      "monthsRemaining": 8.5,
+      "monthsRemaining": 8.2,
       "lastUpdated": "2025-07-04T17:29:19.148+00:00"
     },
     "consumptionHistory": {
@@ -11838,15 +11838,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 22
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 143,
-      "averageMonthly": 23.83,
+      "totalConsumption": 165,
+      "averageMonthly": 27.5,
       "trend": "decreasing"
     }
   },
@@ -11925,10 +11925,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 257,
-      "avgConsumption": 69.8,
+      "currentStock": 179,
+      "avgConsumption": 70.31,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.7,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:22.472+00:00"
     },
     "consumptionHistory": {
@@ -11951,15 +11951,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 78
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 218,
-      "averageMonthly": 36.33,
+      "totalConsumption": 296,
+      "averageMonthly": 49.33,
       "trend": "decreasing"
     }
   },
@@ -11978,8 +11978,8 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 165,
-      "avgConsumption": 57.13,
+      "currentStock": 157,
+      "avgConsumption": 54.06,
       "stockStatus": "adequate",
       "monthsRemaining": 2.9,
       "lastUpdated": "2025-07-04T17:29:22.362+00:00"
@@ -12004,15 +12004,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 8
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 136,
-      "averageMonthly": 22.67,
+      "totalConsumption": 144,
+      "averageMonthly": 24,
       "trend": "decreasing"
     }
   },
@@ -12034,10 +12034,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 14,
-      "avgConsumption": 22.5,
+      "currentStock": 0,
+      "avgConsumption": 21.73,
       "stockStatus": "critical",
-      "monthsRemaining": 0.6,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:09.984+00:00"
     },
     "consumptionHistory": {
@@ -12060,15 +12060,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 14
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 37,
-      "averageMonthly": 6.17,
+      "totalConsumption": 51,
+      "averageMonthly": 8.5,
       "trend": "decreasing"
     }
   },
@@ -12090,10 +12090,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 168,
-      "avgConsumption": 35,
+      "currentStock": 152,
+      "avgConsumption": 33.1,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.8,
+      "monthsRemaining": 4.6,
       "lastUpdated": "2025-07-04T17:29:10.09+00:00"
     },
     "consumptionHistory": {
@@ -12116,15 +12116,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 16
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 51,
-      "averageMonthly": 8.5,
+      "totalConsumption": 67,
+      "averageMonthly": 11.17,
       "trend": "decreasing"
     }
   },
@@ -12146,10 +12146,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 202,
-      "avgConsumption": 28.7,
+      "currentStock": 181,
+      "avgConsumption": 28,
       "stockStatus": "high",
-      "monthsRemaining": 7,
+      "monthsRemaining": 6.5,
       "lastUpdated": "2025-07-04T17:29:09.774+00:00"
     },
     "consumptionHistory": {
@@ -12172,16 +12172,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 17,
-      "averageMonthly": 2.83,
-      "trend": "decreasing"
+      "totalConsumption": 38,
+      "averageMonthly": 6.33,
+      "trend": "increasing"
     }
   },
   {
@@ -12202,10 +12202,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 0,
-      "avgConsumption": 44.6,
-      "stockStatus": "critical",
-      "monthsRemaining": 0,
+      "currentStock": 172,
+      "avgConsumption": 47.27,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.6,
       "lastUpdated": "2025-07-04T17:29:09.881+00:00"
     },
     "consumptionHistory": {
@@ -12228,16 +12228,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 74
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 79,
-      "averageMonthly": 13.17,
-      "trend": "decreasing"
+      "totalConsumption": 153,
+      "averageMonthly": 25.5,
+      "trend": "stable"
     }
   },
   {
@@ -12258,10 +12258,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 234,
-      "avgConsumption": 82.93,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "currentStock": 153,
+      "avgConsumption": 82.8,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:04.273+00:00"
     },
     "consumptionHistory": {
@@ -12284,15 +12284,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 81
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 301,
-      "averageMonthly": 50.17,
+      "totalConsumption": 382,
+      "averageMonthly": 63.67,
       "trend": "decreasing"
     }
   },
@@ -12314,10 +12314,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 141,
-      "avgConsumption": 68.57,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.1,
+      "currentStock": 93,
+      "avgConsumption": 67.2,
+      "stockStatus": "low",
+      "monthsRemaining": 1.4,
       "lastUpdated": "2025-07-04T17:29:04.383+00:00"
     },
     "consumptionHistory": {
@@ -12340,15 +12340,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 48
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 338,
-      "averageMonthly": 56.33,
+      "totalConsumption": 386,
+      "averageMonthly": 64.33,
       "trend": "decreasing"
     }
   },
@@ -12370,10 +12370,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 120,
-      "avgConsumption": 149.71,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 186,
+      "avgConsumption": 154.67,
+      "stockStatus": "low",
+      "monthsRemaining": 1.2,
       "lastUpdated": "2025-07-04T17:29:04.491+00:00"
     },
     "consumptionHistory": {
@@ -12396,15 +12396,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 224
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 757,
-      "averageMonthly": 126.17,
+      "totalConsumption": 981,
+      "averageMonthly": 163.5,
       "trend": "decreasing"
     }
   },
@@ -12426,10 +12426,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 228,
-      "avgConsumption": 81.85,
+      "currentStock": 169,
+      "avgConsumption": 80.21,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "monthsRemaining": 2.1,
       "lastUpdated": "2025-07-04T17:29:04.602+00:00"
     },
     "consumptionHistory": {
@@ -12452,15 +12452,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 59
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 240,
-      "averageMonthly": 40,
+      "totalConsumption": 299,
+      "averageMonthly": 49.83,
       "trend": "decreasing"
     }
   },
@@ -12482,10 +12482,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 90,
-      "avgConsumption": 239.77,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.4,
+      "currentStock": 342,
+      "avgConsumption": 238.79,
+      "stockStatus": "low",
+      "monthsRemaining": 1.4,
       "lastUpdated": "2025-07-04T17:29:03.928+00:00"
     },
     "consumptionHistory": {
@@ -12508,15 +12508,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 226
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1083,
-      "averageMonthly": 180.5,
+      "totalConsumption": 1309,
+      "averageMonthly": 218.17,
       "trend": "decreasing"
     }
   },
@@ -12538,10 +12538,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 127,
-      "avgConsumption": 147.93,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.9,
+      "currentStock": 224,
+      "avgConsumption": 146.73,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:04.051+00:00"
     },
     "consumptionHistory": {
@@ -12564,15 +12564,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 130
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 778,
-      "averageMonthly": 129.67,
+      "totalConsumption": 908,
+      "averageMonthly": 151.33,
       "trend": "decreasing"
     }
   },
@@ -12594,10 +12594,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 240,
-      "avgConsumption": 93.57,
+      "currentStock": 183,
+      "avgConsumption": 91.13,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.6,
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:04.163+00:00"
     },
     "consumptionHistory": {
@@ -12620,15 +12620,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 57
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 490,
-      "averageMonthly": 81.67,
+      "totalConsumption": 547,
+      "averageMonthly": 91.17,
       "trend": "decreasing"
     }
   },
@@ -12647,10 +12647,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 449,
-      "avgConsumption": 310.44,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 287,
+      "avgConsumption": 301.71,
+      "stockStatus": "critical",
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:20.69+00:00"
     },
     "consumptionHistory": {
@@ -12673,15 +12673,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 162
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1167,
-      "averageMonthly": 194.5,
+      "totalConsumption": 1329,
+      "averageMonthly": 221.5,
       "trend": "decreasing"
     }
   },
@@ -12700,10 +12700,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 129,
-      "avgConsumption": 49.27,
+      "currentStock": 116,
+      "avgConsumption": 47,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.6,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:20.902+00:00"
     },
     "consumptionHistory": {
@@ -12726,15 +12726,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 13
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 123,
-      "averageMonthly": 20.5,
+      "totalConsumption": 136,
+      "averageMonthly": 22.67,
       "trend": "decreasing"
     }
   },
@@ -12753,10 +12753,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 239,
-      "avgConsumption": 249.75,
+      "currentStock": 125,
+      "avgConsumption": 241.76,
       "stockStatus": "critical",
-      "monthsRemaining": 1,
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:20.796+00:00"
     },
     "consumptionHistory": {
@@ -12779,15 +12779,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 114
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1157,
-      "averageMonthly": 192.83,
+      "totalConsumption": 1271,
+      "averageMonthly": 211.83,
       "trend": "decreasing"
     }
   },
@@ -12806,10 +12806,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 119,
-      "avgConsumption": 38.79,
+      "currentStock": 104,
+      "avgConsumption": 37.2,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "monthsRemaining": 2.8,
       "lastUpdated": "2025-07-04T17:29:21.041+00:00"
     },
     "consumptionHistory": {
@@ -12832,15 +12832,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 15
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 68,
-      "averageMonthly": 11.33,
+      "totalConsumption": 83,
+      "averageMonthly": 13.83,
       "trend": "decreasing"
     }
   },
@@ -12859,10 +12859,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": -35,
-      "avgConsumption": 61.29,
+      "currentStock": -45,
+      "avgConsumption": 57.87,
       "stockStatus": "critical",
-      "monthsRemaining": -0.6,
+      "monthsRemaining": -0.8,
       "lastUpdated": "2025-07-04T17:29:21.157+00:00"
     },
     "consumptionHistory": {
@@ -12885,15 +12885,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 10
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 189,
-      "averageMonthly": 31.5,
+      "totalConsumption": 199,
+      "averageMonthly": 33.17,
       "trend": "decreasing"
     }
   },
@@ -12965,10 +12965,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 48,
-      "avgConsumption": 94.13,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 332,
+      "avgConsumption": 92.65,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.6,
       "lastUpdated": "2025-07-04T17:29:21.691+00:00"
     },
     "consumptionHistory": {
@@ -12991,15 +12991,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 69
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 399,
-      "averageMonthly": 66.5,
+      "totalConsumption": 468,
+      "averageMonthly": 78,
       "trend": "decreasing"
     }
   },
@@ -13018,10 +13018,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 122,
-      "avgConsumption": 43,
+      "currentStock": 101,
+      "avgConsumption": 41.17,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:21.802+00:00"
     },
     "consumptionHistory": {
@@ -13044,15 +13044,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 101,
-      "averageMonthly": 16.83,
+      "totalConsumption": 122,
+      "averageMonthly": 20.33,
       "trend": "decreasing"
     }
   },
@@ -13177,10 +13177,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 233,
-      "avgConsumption": 32.08,
+      "currentStock": 206,
+      "avgConsumption": 31.71,
       "stockStatus": "high",
-      "monthsRemaining": 7.3,
+      "monthsRemaining": 6.5,
       "lastUpdated": "2025-07-04T17:29:22.031+00:00"
     },
     "consumptionHistory": {
@@ -13203,15 +13203,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 27
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 39,
-      "averageMonthly": 6.5,
+      "totalConsumption": 66,
+      "averageMonthly": 11,
       "trend": "decreasing"
     }
   },
@@ -13230,10 +13230,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 358,
-      "avgConsumption": 724.13,
+      "currentStock": 126,
+      "avgConsumption": 726.65,
       "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:10.316+00:00"
     },
     "consumptionHistory": {
@@ -13256,15 +13256,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 767
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2899,
-      "averageMonthly": 483.17,
+      "totalConsumption": 3666,
+      "averageMonthly": 611,
       "trend": "decreasing"
     }
   },
@@ -13283,10 +13283,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 100,
-      "avgConsumption": 168.6,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.6,
+      "currentStock": 342,
+      "avgConsumption": 171.81,
+      "stockStatus": "low",
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:12.431+00:00"
     },
     "consumptionHistory": {
@@ -13309,15 +13309,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 220
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 917,
-      "averageMonthly": 152.83,
+      "totalConsumption": 1137,
+      "averageMonthly": 189.5,
       "trend": "decreasing"
     }
   },
@@ -13336,10 +13336,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 421,
-      "avgConsumption": 119.93,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.5,
+      "currentStock": 234,
+      "avgConsumption": 124.13,
+      "stockStatus": "low",
+      "monthsRemaining": 1.9,
       "lastUpdated": "2025-07-04T17:29:12.717+00:00"
     },
     "consumptionHistory": {
@@ -13362,15 +13362,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 187
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 621,
-      "averageMonthly": 103.5,
+      "totalConsumption": 808,
+      "averageMonthly": 134.67,
       "trend": "decreasing"
     }
   },
@@ -13389,10 +13389,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 110,
-      "avgConsumption": 135.81,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 603,
+      "avgConsumption": 138.41,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4.4,
       "lastUpdated": "2025-07-04T17:29:12.318+00:00"
     },
     "consumptionHistory": {
@@ -13415,15 +13415,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 180
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 533,
-      "averageMonthly": 88.83,
+      "totalConsumption": 713,
+      "averageMonthly": 118.83,
       "trend": "decreasing"
     }
   },
@@ -13446,10 +13446,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 85,
-      "avgConsumption": 61.46,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 194,
+      "avgConsumption": 63.14,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.1,
       "lastUpdated": "2025-07-04T17:29:00.449+00:00"
     },
     "consumptionHistory": {
@@ -13472,15 +13472,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 85
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 288,
-      "averageMonthly": 48,
+      "totalConsumption": 373,
+      "averageMonthly": 62.17,
       "trend": "decreasing"
     }
   },
@@ -13503,10 +13503,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 167,
-      "avgConsumption": 58.43,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.9,
+      "currentStock": 91,
+      "avgConsumption": 59.6,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:00.867+00:00"
     },
     "consumptionHistory": {
@@ -13529,15 +13529,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 76
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 231,
-      "averageMonthly": 38.5,
+      "totalConsumption": 307,
+      "averageMonthly": 51.17,
       "trend": "decreasing"
     }
   },
@@ -13560,10 +13560,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 76,
-      "avgConsumption": 59,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 190,
+      "avgConsumption": 60.13,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:01.077+00:00"
     },
     "consumptionHistory": {
@@ -13586,15 +13586,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 76
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 226,
-      "averageMonthly": 37.67,
+      "totalConsumption": 302,
+      "averageMonthly": 50.33,
       "trend": "decreasing"
     }
   },
@@ -13613,10 +13613,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 428,
-      "avgConsumption": 42.36,
+      "currentStock": 366,
+      "avgConsumption": 43.67,
       "stockStatus": "high",
-      "monthsRemaining": 10.1,
+      "monthsRemaining": 8.4,
       "lastUpdated": "2025-07-04T17:29:12.904+00:00"
     },
     "consumptionHistory": {
@@ -13639,15 +13639,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 62
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 88,
-      "averageMonthly": 14.67,
+      "totalConsumption": 150,
+      "averageMonthly": 25,
       "trend": "decreasing"
     }
   },
@@ -13670,10 +13670,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 164,
-      "avgConsumption": 78.29,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.1,
+      "currentStock": 60,
+      "avgConsumption": 80,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.8,
       "lastUpdated": "2025-07-04T17:29:00.657+00:00"
     },
     "consumptionHistory": {
@@ -13696,15 +13696,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 104
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 388,
-      "averageMonthly": 64.67,
+      "totalConsumption": 492,
+      "averageMonthly": 82,
       "trend": "decreasing"
     }
   },
@@ -13727,10 +13727,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 159,
-      "avgConsumption": 56.92,
+      "currentStock": 141,
+      "avgConsumption": 53.92,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.8,
+      "monthsRemaining": 2.6,
       "lastUpdated": "2025-07-04T17:29:00.97+00:00"
     },
     "consumptionHistory": {
@@ -13753,15 +13753,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 18
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 156,
-      "averageMonthly": 26,
+      "totalConsumption": 174,
+      "averageMonthly": 29,
       "trend": "decreasing"
     }
   },
@@ -13841,10 +13841,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 179,
-      "avgConsumption": 57.71,
+      "currentStock": 118,
+      "avgConsumption": 57.93,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:00.76+00:00"
     },
     "consumptionHistory": {
@@ -13867,15 +13867,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 61
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 235,
-      "averageMonthly": 39.17,
+      "totalConsumption": 296,
+      "averageMonthly": 49.33,
       "trend": "decreasing"
     }
   },
@@ -13894,10 +13894,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 226,
-      "avgConsumption": 152.94,
-      "stockStatus": "low",
-      "monthsRemaining": 1.5,
+      "currentStock": 483,
+      "avgConsumption": 153.06,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:11.43+00:00"
     },
     "consumptionHistory": {
@@ -13920,15 +13920,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 155
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 381,
-      "averageMonthly": 63.5,
+      "totalConsumption": 536,
+      "averageMonthly": 89.33,
       "trend": "decreasing"
     }
   },
@@ -13947,10 +13947,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 779,
-      "avgConsumption": 283.38,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.7,
+      "currentStock": 478,
+      "avgConsumption": 284.41,
+      "stockStatus": "low",
+      "monthsRemaining": 1.7,
       "lastUpdated": "2025-07-04T17:29:10.211+00:00"
     },
     "consumptionHistory": {
@@ -13973,15 +13973,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 301
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1039,
-      "averageMonthly": 173.17,
+      "totalConsumption": 1340,
+      "averageMonthly": 223.33,
       "trend": "decreasing"
     }
   },
@@ -14000,10 +14000,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 518,
-      "avgConsumption": 73.88,
-      "stockStatus": "high",
-      "monthsRemaining": 7,
+      "currentStock": 401,
+      "avgConsumption": 76.41,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5.2,
       "lastUpdated": "2025-07-04T17:29:10.435+00:00"
     },
     "consumptionHistory": {
@@ -14026,16 +14026,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 117
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 266,
-      "averageMonthly": 44.33,
-      "trend": "decreasing"
+      "totalConsumption": 383,
+      "averageMonthly": 63.83,
+      "trend": "stable"
     }
   },
   {
@@ -14053,10 +14053,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 212,
-      "avgConsumption": 56,
+      "currentStock": 144,
+      "avgConsumption": 56.75,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.8,
+      "monthsRemaining": 2.5,
       "lastUpdated": "2025-07-04T17:29:10.647+00:00"
     },
     "consumptionHistory": {
@@ -14079,15 +14079,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 68
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 170,
-      "averageMonthly": 28.33,
+      "totalConsumption": 238,
+      "averageMonthly": 39.67,
       "trend": "decreasing"
     }
   },
@@ -14106,10 +14106,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 260,
-      "avgConsumption": 48.8,
+      "currentStock": 239,
+      "avgConsumption": 47.06,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.3,
+      "monthsRemaining": 5.1,
       "lastUpdated": "2025-07-04T17:29:10.859+00:00"
     },
     "consumptionHistory": {
@@ -14132,15 +14132,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 146,
-      "averageMonthly": 24.33,
+      "totalConsumption": 167,
+      "averageMonthly": 27.83,
       "trend": "decreasing"
     }
   },
@@ -14159,10 +14159,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 70,
-      "avgConsumption": 55.07,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 25,
+      "avgConsumption": 54.4,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:10.543+00:00"
     },
     "consumptionHistory": {
@@ -14185,15 +14185,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 45
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 114,
-      "averageMonthly": 19,
+      "totalConsumption": 159,
+      "averageMonthly": 26.5,
       "trend": "decreasing"
     }
   },
@@ -14265,10 +14265,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 442,
-      "avgConsumption": 66.19,
+      "currentStock": 404,
+      "avgConsumption": 64.53,
       "stockStatus": "high",
-      "monthsRemaining": 6.7,
+      "monthsRemaining": 6.3,
       "lastUpdated": "2025-07-04T17:29:11.317+00:00"
     },
     "consumptionHistory": {
@@ -14291,15 +14291,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 38
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 265,
-      "averageMonthly": 44.17,
+      "totalConsumption": 303,
+      "averageMonthly": 50.5,
       "trend": "decreasing"
     }
   },
@@ -14318,10 +14318,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 187,
-      "avgConsumption": 17.8,
+      "currentStock": 167,
+      "avgConsumption": 18.17,
       "stockStatus": "high",
-      "monthsRemaining": 10.5,
+      "monthsRemaining": 9.2,
       "lastUpdated": "2025-07-04T17:29:11.071+00:00"
     },
     "consumptionHistory": {
@@ -14344,16 +14344,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 23,
-      "averageMonthly": 3.83,
-      "trend": "decreasing"
+      "totalConsumption": 43,
+      "averageMonthly": 7.17,
+      "trend": "increasing"
     }
   },
   {
@@ -14371,10 +14371,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 155,
-      "avgConsumption": 63.13,
+      "currentStock": 129,
+      "avgConsumption": 60.94,
       "stockStatus": "adequate",
-      "monthsRemaining": 2.5,
+      "monthsRemaining": 2.1,
       "lastUpdated": "2025-07-04T17:29:10.961+00:00"
     },
     "consumptionHistory": {
@@ -14397,15 +14397,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 26
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 194,
-      "averageMonthly": 32.33,
+      "totalConsumption": 220,
+      "averageMonthly": 36.67,
       "trend": "decreasing"
     }
   },
@@ -14424,10 +14424,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 414,
-      "avgConsumption": 26.17,
+      "currentStock": 384,
+      "avgConsumption": 26.46,
       "stockStatus": "high",
-      "monthsRemaining": 15.8,
+      "monthsRemaining": 14.5,
       "lastUpdated": "2025-07-04T17:29:12.213+00:00"
     },
     "consumptionHistory": {
@@ -14450,15 +14450,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 30
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 46,
-      "averageMonthly": 7.67,
+      "totalConsumption": 76,
+      "averageMonthly": 12.67,
       "trend": "decreasing"
     }
   },
@@ -14477,10 +14477,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 108,
-      "avgConsumption": 29.07,
+      "currentStock": 88,
+      "avgConsumption": 28.47,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.7,
+      "monthsRemaining": 3.1,
       "lastUpdated": "2025-07-04T17:29:10.757+00:00"
     },
     "consumptionHistory": {
@@ -14503,15 +14503,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 20
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 136,
-      "averageMonthly": 22.67,
+      "totalConsumption": 156,
+      "averageMonthly": 26,
       "trend": "decreasing"
     }
   },
@@ -14530,10 +14530,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 197,
-      "avgConsumption": 417.25,
+      "currentStock": 283,
+      "avgConsumption": 419.12,
       "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "monthsRemaining": 0.7,
       "lastUpdated": "2025-07-04T17:29:11.749+00:00"
     },
     "consumptionHistory": {
@@ -14556,15 +14556,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 449
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1860,
-      "averageMonthly": 310,
+      "totalConsumption": 2309,
+      "averageMonthly": 384.83,
       "trend": "decreasing"
     }
   },
@@ -14583,10 +14583,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 429,
-      "avgConsumption": 177.69,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 312,
+      "avgConsumption": 174.12,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:12.091+00:00"
     },
     "consumptionHistory": {
@@ -14609,15 +14609,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 117
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1021,
-      "averageMonthly": 170.17,
+      "totalConsumption": 1138,
+      "averageMonthly": 189.67,
       "trend": "decreasing"
     }
   },
@@ -14636,10 +14636,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 156,
-      "avgConsumption": 236.06,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.7,
+      "currentStock": 433,
+      "avgConsumption": 237.12,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:11.194+00:00"
     },
     "consumptionHistory": {
@@ -14662,15 +14662,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 254
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 921,
-      "averageMonthly": 153.5,
+      "totalConsumption": 1175,
+      "averageMonthly": 195.83,
       "trend": "decreasing"
     }
   },
@@ -14689,10 +14689,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 566,
-      "avgConsumption": 505.88,
+      "currentStock": 643,
+      "avgConsumption": 503.65,
       "stockStatus": "low",
-      "monthsRemaining": 1.1,
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-07-04T17:29:11.638+00:00"
     },
     "consumptionHistory": {
@@ -14715,15 +14715,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 468
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2434,
-      "averageMonthly": 405.67,
+      "totalConsumption": 2902,
+      "averageMonthly": 483.67,
       "trend": "decreasing"
     }
   },
@@ -14742,10 +14742,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 508,
-      "avgConsumption": 92.75,
+      "currentStock": 402,
+      "avgConsumption": 93.53,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.5,
+      "monthsRemaining": 4.3,
       "lastUpdated": "2025-07-04T17:29:11.892+00:00"
     },
     "consumptionHistory": {
@@ -14768,15 +14768,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 106
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 208,
-      "averageMonthly": 34.67,
+      "totalConsumption": 314,
+      "averageMonthly": 52.33,
       "trend": "decreasing"
     }
   },
@@ -14798,10 +14798,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 210,
-      "avgConsumption": 154.21,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 64,
+      "avgConsumption": 153.67,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.4,
       "lastUpdated": "2025-07-04T17:29:08.874+00:00"
     },
     "consumptionHistory": {
@@ -14824,15 +14824,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 146
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 986,
-      "averageMonthly": 164.33,
+      "totalConsumption": 1132,
+      "averageMonthly": 188.67,
       "trend": "decreasing"
     }
   },
@@ -14854,10 +14854,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 151,
-      "avgConsumption": 208.07,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.7,
+      "currentStock": 339,
+      "avgConsumption": 217.13,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:08.986+00:00"
     },
     "consumptionHistory": {
@@ -14880,15 +14880,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 344
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1013,
-      "averageMonthly": 168.83,
+      "totalConsumption": 1357,
+      "averageMonthly": 226.17,
       "trend": "decreasing"
     }
   },
@@ -14910,10 +14910,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 163,
-      "avgConsumption": 67.85,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 20,
+      "avgConsumption": 73.21,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.3,
       "lastUpdated": "2025-07-04T17:29:09.216+00:00"
     },
     "consumptionHistory": {
@@ -14936,15 +14936,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 143
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 270,
-      "averageMonthly": 45,
+      "totalConsumption": 413,
+      "averageMonthly": 68.83,
       "trend": "decreasing"
     }
   },
@@ -14963,10 +14963,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 500,
-      "avgConsumption": 158.69,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "currentStock": 243,
+      "avgConsumption": 164.47,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:19.601+00:00"
     },
     "consumptionHistory": {
@@ -14989,15 +14989,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 257
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 554,
-      "averageMonthly": 92.33,
+      "totalConsumption": 811,
+      "averageMonthly": 135.17,
       "trend": "decreasing"
     }
   },
@@ -15016,10 +15016,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 93,
-      "avgConsumption": 184.38,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 445,
+      "avgConsumption": 186.24,
+      "stockStatus": "adequate",
+      "monthsRemaining": 2.4,
       "lastUpdated": "2025-07-04T17:29:25.477+00:00"
     },
     "consumptionHistory": {
@@ -15042,15 +15042,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 216
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 799,
-      "averageMonthly": 133.17,
+      "totalConsumption": 1015,
+      "averageMonthly": 169.17,
       "trend": "decreasing"
     }
   },
@@ -15072,10 +15072,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 122,
-      "avgConsumption": 72.15,
-      "stockStatus": "low",
-      "monthsRemaining": 1.7,
+      "currentStock": 291,
+      "avgConsumption": 72.93,
+      "stockStatus": "adequate",
+      "monthsRemaining": 4,
       "lastUpdated": "2025-07-04T17:29:08.767+00:00"
     },
     "consumptionHistory": {
@@ -15098,15 +15098,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 83
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 273,
-      "averageMonthly": 45.5,
+      "totalConsumption": 356,
+      "averageMonthly": 59.33,
       "trend": "decreasing"
     }
   },
@@ -15128,10 +15128,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 468,
-      "avgConsumption": 148.75,
+      "currentStock": 313,
+      "avgConsumption": 149.12,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.1,
+      "monthsRemaining": 2.1,
       "lastUpdated": "2025-07-04T17:29:08.209+00:00"
     },
     "consumptionHistory": {
@@ -15154,15 +15154,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 155
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 608,
-      "averageMonthly": 101.33,
+      "totalConsumption": 763,
+      "averageMonthly": 127.17,
       "trend": "decreasing"
     }
   },
@@ -15181,10 +15181,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 219,
-      "avgConsumption": 134.47,
+      "currentStock": 132,
+      "avgConsumption": 131.5,
       "stockStatus": "low",
-      "monthsRemaining": 1.6,
+      "monthsRemaining": 1,
       "lastUpdated": "2025-07-04T17:29:25.261+00:00"
     },
     "consumptionHistory": {
@@ -15207,15 +15207,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 87
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 435,
-      "averageMonthly": 72.5,
+      "totalConsumption": 522,
+      "averageMonthly": 87,
       "trend": "decreasing"
     }
   },
@@ -15237,10 +15237,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 29,
-      "avgConsumption": 51.15,
+      "currentStock": 0,
+      "avgConsumption": 49.57,
       "stockStatus": "critical",
-      "monthsRemaining": 0.6,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:05.137+00:00"
     },
     "consumptionHistory": {
@@ -15263,15 +15263,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 29
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 163,
-      "averageMonthly": 27.17,
+      "totalConsumption": 192,
+      "averageMonthly": 32,
       "trend": "decreasing"
     }
   },
@@ -15290,10 +15290,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 177,
-      "avgConsumption": 234.31,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.8,
+      "currentStock": 432,
+      "avgConsumption": 237,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:24.454+00:00"
     },
     "consumptionHistory": {
@@ -15316,15 +15316,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 280
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 915,
-      "averageMonthly": 152.5,
+      "totalConsumption": 1195,
+      "averageMonthly": 199.17,
       "trend": "decreasing"
     }
   },
@@ -15343,10 +15343,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 510,
-      "avgConsumption": 96.81,
+      "currentStock": 376,
+      "avgConsumption": 99,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.3,
+      "monthsRemaining": 3.8,
       "lastUpdated": "2025-07-04T17:29:24.01+00:00"
     },
     "consumptionHistory": {
@@ -15369,15 +15369,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 134
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 317,
-      "averageMonthly": 52.83,
+      "totalConsumption": 451,
+      "averageMonthly": 75.17,
       "trend": "decreasing"
     }
   },
@@ -15399,10 +15399,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 217,
-      "avgConsumption": 207.15,
-      "stockStatus": "low",
-      "monthsRemaining": 1,
+      "currentStock": 170,
+      "avgConsumption": 205.57,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.8,
       "lastUpdated": "2025-07-04T17:29:09.322+00:00"
     },
     "consumptionHistory": {
@@ -15425,15 +15425,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 185
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 999,
-      "averageMonthly": 166.5,
+      "totalConsumption": 1184,
+      "averageMonthly": 197.33,
       "trend": "decreasing"
     }
   },
@@ -15455,10 +15455,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 702,
-      "avgConsumption": 117.31,
+      "currentStock": 553,
+      "avgConsumption": 119.57,
       "stockStatus": "adequate",
-      "monthsRemaining": 6,
+      "monthsRemaining": 4.6,
       "lastUpdated": "2025-07-04T17:29:08.65+00:00"
     },
     "consumptionHistory": {
@@ -15481,15 +15481,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 149
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 515,
-      "averageMonthly": 85.83,
+      "totalConsumption": 664,
+      "averageMonthly": 110.67,
       "trend": "decreasing"
     }
   },
@@ -15508,10 +15508,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 121,
-      "avgConsumption": 221.94,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.5,
+      "currentStock": 401,
+      "avgConsumption": 217.82,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:19.86+00:00"
     },
     "consumptionHistory": {
@@ -15534,15 +15534,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 152
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 729,
-      "averageMonthly": 121.5,
+      "totalConsumption": 881,
+      "averageMonthly": 146.83,
       "trend": "decreasing"
     }
   },
@@ -15564,10 +15564,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 166,
-      "avgConsumption": 35.69,
+      "currentStock": 115,
+      "avgConsumption": 36.79,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.7,
+      "monthsRemaining": 3.1,
       "lastUpdated": "2025-07-04T17:29:08.547+00:00"
     },
     "consumptionHistory": {
@@ -15590,15 +15590,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 51
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 171,
-      "averageMonthly": 28.5,
+      "totalConsumption": 222,
+      "averageMonthly": 37,
       "trend": "decreasing"
     }
   },
@@ -15620,10 +15620,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 164,
-      "avgConsumption": 32.21,
+      "currentStock": 143,
+      "avgConsumption": 31.47,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.1,
+      "monthsRemaining": 4.5,
       "lastUpdated": "2025-07-04T17:29:08.441+00:00"
     },
     "consumptionHistory": {
@@ -15646,15 +15646,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 21
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 159,
-      "averageMonthly": 26.5,
+      "totalConsumption": 180,
+      "averageMonthly": 30,
       "trend": "decreasing"
     }
   },
@@ -15676,10 +15676,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 166,
-      "avgConsumption": 50.56,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.3,
+      "currentStock": 91,
+      "avgConsumption": 52,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:08.324+00:00"
     },
     "consumptionHistory": {
@@ -15702,15 +15702,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 75
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 246,
-      "averageMonthly": 41,
+      "totalConsumption": 321,
+      "averageMonthly": 53.5,
       "trend": "decreasing"
     }
   },
@@ -15732,10 +15732,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 605,
-      "avgConsumption": 189.85,
-      "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "currentStock": 349,
+      "avgConsumption": 194.57,
+      "stockStatus": "low",
+      "monthsRemaining": 1.8,
       "lastUpdated": "2025-07-04T17:29:09.11+00:00"
     },
     "consumptionHistory": {
@@ -15758,15 +15758,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 256
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 755,
-      "averageMonthly": 125.83,
+      "totalConsumption": 1011,
+      "averageMonthly": 168.5,
       "trend": "decreasing"
     }
   },
@@ -15788,10 +15788,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 191,
-      "avgConsumption": 99.92,
+      "currentStock": 118,
+      "avgConsumption": 97.85,
       "stockStatus": "low",
-      "monthsRemaining": 1.9,
+      "monthsRemaining": 1.2,
       "lastUpdated": "2025-07-04T17:29:09.432+00:00"
     },
     "consumptionHistory": {
@@ -15814,15 +15814,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 73
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 350,
-      "averageMonthly": 58.33,
+      "totalConsumption": 423,
+      "averageMonthly": 70.5,
       "trend": "decreasing"
     }
   },
@@ -15841,10 +15841,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 748,
-      "avgConsumption": 587.75,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 120,
+      "avgConsumption": 590.12,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:23.909+00:00"
     },
     "consumptionHistory": {
@@ -15867,15 +15867,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 628
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 2742,
-      "averageMonthly": 457,
+      "totalConsumption": 3370,
+      "averageMonthly": 561.67,
       "trend": "decreasing"
     }
   },
@@ -15894,10 +15894,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 135,
-      "avgConsumption": 382.13,
+      "currentStock": 0,
+      "avgConsumption": 384.12,
       "stockStatus": "critical",
-      "monthsRemaining": 0.4,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:19.493+00:00"
     },
     "consumptionHistory": {
@@ -15920,15 +15920,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 416
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1571,
-      "averageMonthly": 261.83,
+      "totalConsumption": 1987,
+      "averageMonthly": 331.17,
       "trend": "decreasing"
     }
   },
@@ -15950,10 +15950,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 265,
-      "avgConsumption": 108.92,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 20,
+      "avgConsumption": 118.64,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:06.675+00:00"
     },
     "consumptionHistory": {
@@ -15976,15 +15976,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 245
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 645,
-      "averageMonthly": 107.5,
+      "totalConsumption": 890,
+      "averageMonthly": 148.33,
       "trend": "decreasing"
     }
   },
@@ -16006,10 +16006,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 424,
-      "avgConsumption": 257.06,
-      "stockStatus": "low",
-      "monthsRemaining": 1.6,
+      "currentStock": 53,
+      "avgConsumption": 263.76,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.2,
       "lastUpdated": "2025-07-04T17:29:05.474+00:00"
     },
     "consumptionHistory": {
@@ -16032,15 +16032,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 371
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1115,
-      "averageMonthly": 185.83,
+      "totalConsumption": 1486,
+      "averageMonthly": 247.67,
       "trend": "decreasing"
     }
   },
@@ -16059,10 +16059,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 46,
-      "avgConsumption": 210.88,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.2,
+      "currentStock": 286,
+      "avgConsumption": 214,
+      "stockStatus": "low",
+      "monthsRemaining": 1.3,
       "lastUpdated": "2025-07-04T17:29:18.469+00:00"
     },
     "consumptionHistory": {
@@ -16085,15 +16085,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 264
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 838,
-      "averageMonthly": 139.67,
+      "totalConsumption": 1102,
+      "averageMonthly": 183.67,
       "trend": "decreasing"
     }
   },
@@ -16115,10 +16115,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 25,
-      "avgConsumption": 34.14,
+      "currentStock": 0,
+      "avgConsumption": 33.53,
       "stockStatus": "critical",
-      "monthsRemaining": 0.7,
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:07.665+00:00"
     },
     "consumptionHistory": {
@@ -16141,15 +16141,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 25
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 120,
-      "averageMonthly": 20,
+      "totalConsumption": 145,
+      "averageMonthly": 24.17,
       "trend": "decreasing"
     }
   },
@@ -16171,10 +16171,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 22,
-      "avgConsumption": 39.29,
-      "stockStatus": "critical",
-      "monthsRemaining": 0.6,
+      "currentStock": 137,
+      "avgConsumption": 43.2,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:07.545+00:00"
     },
     "consumptionHistory": {
@@ -16197,16 +16197,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 98
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 148,
-      "averageMonthly": 24.67,
-      "trend": "decreasing"
+      "totalConsumption": 246,
+      "averageMonthly": 41,
+      "trend": "increasing"
     }
   },
   {
@@ -16224,10 +16224,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 337,
-      "avgConsumption": 77.6,
+      "currentStock": 219,
+      "avgConsumption": 80.13,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.3,
+      "monthsRemaining": 2.7,
       "lastUpdated": "2025-07-04T17:29:18.709+00:00"
     },
     "consumptionHistory": {
@@ -16250,15 +16250,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 118
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 368,
-      "averageMonthly": 61.33,
+      "totalConsumption": 486,
+      "averageMonthly": 81,
       "trend": "decreasing"
     }
   },
@@ -16336,10 +16336,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 374,
-      "avgConsumption": 23.78,
+      "currentStock": 362,
+      "avgConsumption": 22.6,
       "stockStatus": "high",
-      "monthsRemaining": 15.7,
+      "monthsRemaining": 16,
       "lastUpdated": "2025-07-04T17:29:07.891+00:00"
     },
     "consumptionHistory": {
@@ -16362,15 +16362,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 12
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 71,
-      "averageMonthly": 11.83,
+      "totalConsumption": 83,
+      "averageMonthly": 13.83,
       "trend": "decreasing"
     }
   },
@@ -16392,10 +16392,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 418,
-      "avgConsumption": 82.53,
+      "currentStock": 243,
+      "avgConsumption": 88.31,
       "stockStatus": "adequate",
-      "monthsRemaining": 5.1,
+      "monthsRemaining": 2.8,
       "lastUpdated": "2025-07-04T17:29:06.903+00:00"
     },
     "consumptionHistory": {
@@ -16418,15 +16418,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 175
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 418,
-      "averageMonthly": 69.67,
+      "totalConsumption": 593,
+      "averageMonthly": 98.83,
       "trend": "decreasing"
     }
   },
@@ -16445,10 +16445,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": -55,
-      "avgConsumption": 74,
-      "stockStatus": "critical",
-      "monthsRemaining": -0.7,
+      "currentStock": 281,
+      "avgConsumption": 80.88,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.5,
       "lastUpdated": "2025-07-04T17:29:18.591+00:00"
     },
     "consumptionHistory": {
@@ -16471,15 +16471,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 184
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 253,
-      "averageMonthly": 42.17,
+      "totalConsumption": 437,
+      "averageMonthly": 72.83,
       "trend": "decreasing"
     }
   },
@@ -16498,10 +16498,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 646,
-      "avgConsumption": 203.56,
+      "currentStock": 418,
+      "avgConsumption": 205,
       "stockStatus": "adequate",
-      "monthsRemaining": 3.2,
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:18.153+00:00"
     },
     "consumptionHistory": {
@@ -16524,15 +16524,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 228
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 849,
-      "averageMonthly": 141.5,
+      "totalConsumption": 1077,
+      "averageMonthly": 179.5,
       "trend": "decreasing"
     }
   },
@@ -16551,10 +16551,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 1829,
-      "avgConsumption": 362.31,
+      "currentStock": 1488,
+      "avgConsumption": 361.06,
       "stockStatus": "adequate",
-      "monthsRemaining": 5,
+      "monthsRemaining": 4.1,
       "lastUpdated": "2025-07-04T17:29:17.911+00:00"
     },
     "consumptionHistory": {
@@ -16577,15 +16577,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 341
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 1097,
-      "averageMonthly": 182.83,
+      "totalConsumption": 1438,
+      "averageMonthly": 239.67,
       "trend": "decreasing"
     }
   },
@@ -16604,10 +16604,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 111,
-      "avgConsumption": 72.81,
-      "stockStatus": "low",
-      "monthsRemaining": 1.5,
+      "currentStock": 0,
+      "avgConsumption": 75.06,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:19.372+00:00"
     },
     "consumptionHistory": {
@@ -16630,15 +16630,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 111
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 224,
-      "averageMonthly": 37.33,
+      "totalConsumption": 335,
+      "averageMonthly": 55.83,
       "trend": "decreasing"
     }
   },
@@ -16713,10 +16713,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 234,
-      "avgConsumption": 174.94,
-      "stockStatus": "low",
-      "monthsRemaining": 1.3,
+      "currentStock": 116,
+      "avgConsumption": 171.59,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.7,
       "lastUpdated": "2025-07-04T17:29:25.369+00:00"
     },
     "consumptionHistory": {
@@ -16739,15 +16739,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 118
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 865,
-      "averageMonthly": 144.17,
+      "totalConsumption": 983,
+      "averageMonthly": 163.83,
       "trend": "decreasing"
     }
   },
@@ -16878,10 +16878,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 253,
-      "avgConsumption": 118.56,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.1,
+      "currentStock": 182,
+      "avgConsumption": 115.76,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:18.916+00:00"
     },
     "consumptionHistory": {
@@ -16904,15 +16904,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 71
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 335,
-      "averageMonthly": 55.83,
+      "totalConsumption": 406,
+      "averageMonthly": 67.67,
       "trend": "decreasing"
     }
   },
@@ -16934,10 +16934,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 214,
-      "avgConsumption": 44.47,
+      "currentStock": 178,
+      "avgConsumption": 43.94,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.8,
+      "monthsRemaining": 4.1,
       "lastUpdated": "2025-07-04T17:29:07.319+00:00"
     },
     "consumptionHistory": {
@@ -16960,15 +16960,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 36
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 178,
-      "averageMonthly": 29.67,
+      "totalConsumption": 214,
+      "averageMonthly": 35.67,
       "trend": "decreasing"
     }
   },
@@ -16990,10 +16990,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 118,
-      "avgConsumption": 43.87,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.7,
+      "currentStock": 67,
+      "avgConsumption": 44.31,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:07.426+00:00"
     },
     "consumptionHistory": {
@@ -17016,15 +17016,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 51
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 129,
-      "averageMonthly": 21.5,
+      "totalConsumption": 180,
+      "averageMonthly": 30,
       "trend": "decreasing"
     }
   },
@@ -17102,10 +17102,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 219,
-      "avgConsumption": 33.57,
-      "stockStatus": "high",
-      "monthsRemaining": 6.5,
+      "currentStock": 188,
+      "avgConsumption": 33.4,
+      "stockStatus": "adequate",
+      "monthsRemaining": 5.6,
       "lastUpdated": "2025-07-04T17:29:05.298+00:00"
     },
     "consumptionHistory": {
@@ -17128,15 +17128,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 31
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 96,
-      "averageMonthly": 16,
+      "totalConsumption": 127,
+      "averageMonthly": 21.17,
       "trend": "decreasing"
     }
   },
@@ -17158,10 +17158,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 374,
-      "avgConsumption": 62.4,
+      "currentStock": 312,
+      "avgConsumption": 62.38,
       "stockStatus": "adequate",
-      "monthsRemaining": 6,
+      "monthsRemaining": 5,
       "lastUpdated": "2025-07-04T17:29:04.977+00:00"
     },
     "consumptionHistory": {
@@ -17184,15 +17184,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 62
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 219,
-      "averageMonthly": 36.5,
+      "totalConsumption": 281,
+      "averageMonthly": 46.83,
       "trend": "decreasing"
     }
   },
@@ -17214,10 +17214,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 118,
-      "avgConsumption": 50.67,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.3,
+      "currentStock": 0,
+      "avgConsumption": 54.88,
+      "stockStatus": "critical",
+      "monthsRemaining": 0,
       "lastUpdated": "2025-07-04T17:29:04.838+00:00"
     },
     "consumptionHistory": {
@@ -17240,16 +17240,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 118
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 200,
-      "averageMonthly": 33.33,
-      "trend": "decreasing"
+      "totalConsumption": 318,
+      "averageMonthly": 53,
+      "trend": "increasing"
     }
   },
   {
@@ -17267,10 +17267,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 446,
-      "avgConsumption": 182.13,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.4,
+      "currentStock": 284,
+      "avgConsumption": 180.94,
+      "stockStatus": "low",
+      "monthsRemaining": 1.6,
       "lastUpdated": "2025-07-04T17:29:23.456+00:00"
     },
     "consumptionHistory": {
@@ -17293,15 +17293,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 162
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 762,
-      "averageMonthly": 127,
+      "totalConsumption": 924,
+      "averageMonthly": 154,
       "trend": "decreasing"
     }
   },
@@ -17320,10 +17320,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 194,
-      "avgConsumption": 138.69,
-      "stockStatus": "low",
-      "monthsRemaining": 1.4,
+      "currentStock": 69,
+      "avgConsumption": 137.88,
+      "stockStatus": "critical",
+      "monthsRemaining": 0.5,
       "lastUpdated": "2025-07-04T17:29:20.562+00:00"
     },
     "consumptionHistory": {
@@ -17346,15 +17346,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 125
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 516,
-      "averageMonthly": 86,
+      "totalConsumption": 641,
+      "averageMonthly": 106.83,
       "trend": "decreasing"
     }
   },
@@ -17426,10 +17426,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 97,
-      "avgConsumption": 79.6,
-      "stockStatus": "low",
-      "monthsRemaining": 1.2,
+      "currentStock": 257,
+      "avgConsumption": 80.69,
+      "stockStatus": "adequate",
+      "monthsRemaining": 3.2,
       "lastUpdated": "2025-07-04T17:29:19.972+00:00"
     },
     "consumptionHistory": {
@@ -17452,15 +17452,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 97
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 232,
-      "averageMonthly": 38.67,
+      "totalConsumption": 329,
+      "averageMonthly": 54.83,
       "trend": "decreasing"
     }
   },
@@ -17479,10 +17479,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 189,
-      "avgConsumption": 76.38,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2.5,
+      "currentStock": 147,
+      "avgConsumption": 74.35,
+      "stockStatus": "low",
+      "monthsRemaining": 2,
       "lastUpdated": "2025-07-04T17:29:20.09+00:00"
     },
     "consumptionHistory": {
@@ -17505,15 +17505,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 42
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 280,
-      "averageMonthly": 46.67,
+      "totalConsumption": 322,
+      "averageMonthly": 53.67,
       "trend": "decreasing"
     }
   },
@@ -17588,10 +17588,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 1127,
-      "avgConsumption": 74.88,
+      "currentStock": 1028,
+      "avgConsumption": 76.29,
       "stockStatus": "high",
-      "monthsRemaining": 15.1,
+      "monthsRemaining": 13.5,
       "lastUpdated": "2025-07-04T17:29:19.731+00:00"
     },
     "consumptionHistory": {
@@ -17614,15 +17614,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 99
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 583,
-      "averageMonthly": 97.17,
+      "totalConsumption": 682,
+      "averageMonthly": 113.67,
       "trend": "decreasing"
     }
   },
@@ -17644,10 +17644,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 273,
-      "avgConsumption": 26.42,
+      "currentStock": 225,
+      "avgConsumption": 28.08,
       "stockStatus": "high",
-      "monthsRemaining": 10.3,
+      "monthsRemaining": 8,
       "lastUpdated": "2025-07-04T17:29:04.718+00:00"
     },
     "consumptionHistory": {
@@ -17670,16 +17670,16 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 48
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 67,
-      "averageMonthly": 11.17,
-      "trend": "decreasing"
+      "totalConsumption": 115,
+      "averageMonthly": 19.17,
+      "trend": "increasing"
     }
   },
   {
@@ -17697,10 +17697,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 458,
-      "avgConsumption": 102.81,
+      "currentStock": 382,
+      "avgConsumption": 101.24,
       "stockStatus": "adequate",
-      "monthsRemaining": 4.5,
+      "monthsRemaining": 3.8,
       "lastUpdated": "2025-07-04T17:29:18.809+00:00"
     },
     "consumptionHistory": {
@@ -17723,15 +17723,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 76
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 453,
-      "averageMonthly": 75.5,
+      "totalConsumption": 529,
+      "averageMonthly": 88.17,
       "trend": "decreasing"
     }
   },
@@ -17921,10 +17921,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 39,
-      "avgConsumption": 20.09,
+      "currentStock": 29,
+      "avgConsumption": 19.25,
       "stockStatus": "low",
-      "monthsRemaining": 1.9,
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:07.221+00:00"
     },
     "consumptionHistory": {
@@ -17947,15 +17947,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 10
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 39,
-      "averageMonthly": 6.5,
+      "totalConsumption": 49,
+      "averageMonthly": 8.17,
       "trend": "decreasing"
     }
   },
@@ -18033,10 +18033,10 @@
       "Woodrica"
     ],
     "stockData": {
-      "currentStock": 40,
-      "avgConsumption": 19.78,
-      "stockStatus": "adequate",
-      "monthsRemaining": 2,
+      "currentStock": 28,
+      "avgConsumption": 19,
+      "stockStatus": "low",
+      "monthsRemaining": 1.5,
       "lastUpdated": "2025-07-04T17:29:07.11+00:00"
     },
     "consumptionHistory": {
@@ -18059,15 +18059,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 12
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 51,
-      "averageMonthly": 8.5,
+      "totalConsumption": 63,
+      "averageMonthly": 10.5,
       "trend": "decreasing"
     }
   },
@@ -18192,10 +18192,10 @@
       "textures": []
     },
     "stockData": {
-      "currentStock": 348,
-      "avgConsumption": 41.06,
+      "currentStock": 326,
+      "avgConsumption": 39.94,
       "stockStatus": "high",
-      "monthsRemaining": 8.5,
+      "monthsRemaining": 8.2,
       "lastUpdated": "2025-07-04T17:29:19.148+00:00"
     },
     "consumptionHistory": {
@@ -18218,15 +18218,15 @@
         },
         {
           "month": "2026-01",
-          "consumption": 0
+          "consumption": 22
         },
         {
           "month": "2026-02",
           "consumption": 0
         }
       ],
-      "totalConsumption": 143,
-      "averageMonthly": 23.83,
+      "totalConsumption": 165,
+      "averageMonthly": 27.5,
       "trend": "decreasing"
     }
   }

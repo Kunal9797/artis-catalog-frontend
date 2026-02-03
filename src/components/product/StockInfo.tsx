@@ -21,11 +21,23 @@ export default function StockInfo({ product }: StockInfoProps) {
   const stockData = product.stockData;
   const history = product.consumptionHistory;
 
-  // Format chart data
-  const chartData = history?.monthlyData?.map((item: any) => ({
+  // Format chart data - filter out months without data inputted
+  const rawChartData = history?.monthlyData || [];
+  
+  // Find last month with consumption > 0 (last month with data inputted)
+  const lastActiveMonthIndex = rawChartData.reduce((lastIndex, item, currentIndex) => {
+    return item.consumption > 0 ? currentIndex : lastIndex;
+  }, -1);
+  
+  // Only include months up to and including last active month
+  const filteredData = lastActiveMonthIndex >= 0 
+    ? rawChartData.slice(0, lastActiveMonthIndex + 1)
+    : [];
+  
+  const chartData = filteredData.map((item: any) => ({
     month: new Date(item.month + '-01').toLocaleDateString('en-US', { month: 'short', year: '2-digit' }),
     consumption: item.consumption,
-  })) || [];
+  }));
 
   // Get trend icon
   const getTrendIcon = (trend?: string) => {

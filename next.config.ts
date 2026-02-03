@@ -12,8 +12,8 @@ const nextConfig: NextConfig = {
     ],
     unoptimized: true,
   },
-  // Removed 'output: export' to enable middleware for auth
-  // Static optimization still happens automatically for static pages
+  // Back to static export - using Vercel Deployment Protection for auth instead
+  output: 'export',
   trailingSlash: true,
 };
 

@@ -12,8 +12,8 @@ const nextConfig: NextConfig = {
     ],
     unoptimized: true,
   },
-  // Generate static pages for deployment
-  output: 'export',
+  // Removed 'output: export' to enable middleware for auth
+  // Static optimization still happens automatically for static pages
   trailingSlash: true,
 };
 

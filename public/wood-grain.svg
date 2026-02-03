@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <filter id="noise" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.15" numOctaves="3" result="noise"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <pattern id="grain" patternUnits="userSpaceOnUse" width="200" height="200">
+      <rect width="200" height="200" filter="url(#noise)" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grain)"/>
+  <!-- Subtle wood lines -->
+  <g stroke="#D4AF37" stroke-width="0.5" opacity="0.08">
+    <path d="M0,20 Q50,18 100,22 T200,20" fill="none"/>
+    <path d="M0,45 Q60,42 120,48 T200,45" fill="none"/>
+    <path d="M0,70 Q40,68 90,73 T200,70" fill="none"/>
+    <path d="M0,95 Q70,92 130,98 T200,95" fill="none"/>
+    <path d="M0,120 Q55,117 110,123 T200,120" fill="none"/>
+    <path d="M0,145 Q45,143 95,148 T200,145" fill="none"/>
+    <path d="M0,170 Q65,167 125,173 T200,170" fill="none"/>
+    <path d="M0,195 Q50,192 105,198 T200,195" fill="none"/>
+  </g>
+  <!-- Subtle knot hints -->
+  <g fill="#D4AF37" opacity="0.04">
+    <ellipse cx="35" cy="85" rx="8" ry="12"/>
+    <ellipse cx="150" cy="160" rx="6" ry="10"/>
+  </g>
+</svg>

@@ -4,7 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import { useEffect, Suspense } from 'react';
 import { motion } from 'framer-motion';
 import SearchBar from '@/components/catalog/SearchBar';
-import FilterPanel from '@/components/catalog/FilterPanel';
+import FilterPanel, { MobileFilterBar } from '@/components/catalog/FilterPanel';
 import ProductGrid from '@/components/catalog/ProductGrid';
 import { getAllProducts, getUniqueCategories } from '@/lib/products';
 import { useFilterStore } from '@/lib/store';
@@ -73,10 +73,13 @@ function CatalogContent() {
         </div>
       </div>
 
+      {/* Mobile Filter Bar - OUTSIDE flex, full width */}
+      <MobileFilterBar categories={categories} />
+
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
         <div className="flex gap-8">
-          {/* Sidebar Filter (Desktop) */}
+          {/* Sidebar Filter (Desktop only) */}
           <FilterPanel categories={categories} />
 
           {/* Product Grid */}

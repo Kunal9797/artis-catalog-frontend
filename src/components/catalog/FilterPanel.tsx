@@ -120,25 +120,29 @@ function FilterContent({ categories }: FilterPanelProps) {
   );
 }
 
-export default function FilterPanel({ categories }: FilterPanelProps) {
+// Desktop sidebar - goes inside the flex container
+export function DesktopFilterSidebar({ categories }: FilterPanelProps) {
+  return (
+    <aside className="hidden lg:block w-64 flex-shrink-0">
+      <div className="sticky top-20 bg-white rounded-xl border border-gray-200 p-5">
+        <div className="flex items-center gap-2 mb-4">
+          <Filter className="h-5 w-5 text-gray-600" />
+          <h2 className="font-semibold text-gray-900">Filters</h2>
+        </div>
+        <FilterContent categories={categories} />
+      </div>
+    </aside>
+  );
+}
+
+// Mobile filter bar - goes OUTSIDE the flex container, full width
+export function MobileFilterBar({ categories }: FilterPanelProps) {
   const { viewMode, setViewMode, sortBy, setSortBy, sortOrder, toggleSortOrder, catalogs, categories: selectedCategories, filteredCount } = useFilterStore();
   const activeFiltersCount = catalogs.length + selectedCategories.length;
 
   return (
-    <>
-      {/* Desktop Sidebar */}
-      <aside className="hidden lg:block w-64 flex-shrink-0">
-        <div className="sticky top-20 bg-white rounded-xl border border-gray-200 p-5">
-          <div className="flex items-center gap-2 mb-4">
-            <Filter className="h-5 w-5 text-gray-600" />
-            <h2 className="font-semibold text-gray-900">Filters</h2>
-          </div>
-          <FilterContent categories={categories} />
-        </div>
-      </aside>
-
-      {/* Mobile Filter Bar - Compact sticky mini-bar */}
-      <div className="lg:hidden sticky top-16 z-40 bg-white/95 backdrop-blur-sm border-b py-2 px-4 -mx-4 mb-4">
+    <div className="lg:hidden sticky top-16 z-40 bg-white/95 backdrop-blur-sm border-b py-2">
+      <div className="container mx-auto px-4">
         <div className="flex items-center justify-between gap-2">
           {/* Left: Filter button + result count */}
           <div className="flex items-center gap-2">
@@ -153,18 +157,18 @@ export default function FilterPanel({ categories }: FilterPanelProps) {
                   )}
                 </Button>
               </SheetTrigger>
-            <SheetContent side="left" className="w-80 overflow-y-auto">
-              <SheetHeader>
-                <SheetTitle className="flex items-center gap-2">
-                  <Filter className="h-5 w-5" />
-                  Filters
-                </SheetTitle>
-              </SheetHeader>
-              <div className="mt-6">
-                <FilterContent categories={categories} />
-              </div>
-            </SheetContent>
-          </Sheet>
+              <SheetContent side="left" className="w-80 overflow-y-auto">
+                <SheetHeader>
+                  <SheetTitle className="flex items-center gap-2">
+                    <Filter className="h-5 w-5" />
+                    Filters
+                  </SheetTitle>
+                </SheetHeader>
+                <div className="mt-6">
+                  <FilterContent categories={categories} />
+                </div>
+              </SheetContent>
+            </Sheet>
             <span className="text-xs text-gray-500">
               <span className="font-semibold text-gray-700">{filteredCount}</span> products
             </span>
@@ -208,6 +212,15 @@ export default function FilterPanel({ categories }: FilterPanelProps) {
           </div>
         </div>
       </div>
+    </div>
+  );
+}
+
+// Default export for backwards compatibility (includes both)
+export default function FilterPanel({ categories }: FilterPanelProps) {
+  return (
+    <>
+      <DesktopFilterSidebar categories={categories} />
     </>
   );
 }

@@ -121,7 +121,7 @@ function FilterContent({ categories }: FilterPanelProps) {
 }
 
 export default function FilterPanel({ categories }: FilterPanelProps) {
-  const { viewMode, setViewMode, sortBy, setSortBy, sortOrder, toggleSortOrder, catalogs, categories: selectedCategories } = useFilterStore();
+  const { viewMode, setViewMode, sortBy, setSortBy, sortOrder, toggleSortOrder, catalogs, categories: selectedCategories, filteredCount } = useFilterStore();
   const activeFiltersCount = catalogs.length + selectedCategories.length;
 
   return (
@@ -137,22 +137,22 @@ export default function FilterPanel({ categories }: FilterPanelProps) {
         </div>
       </aside>
 
-      {/* Mobile Filter Bar */}
-      <div className="lg:hidden sticky top-16 z-40 bg-white border-b py-3 px-4 -mx-4 mb-4">
+      {/* Mobile Filter Bar - Compact sticky mini-bar */}
+      <div className="lg:hidden sticky top-16 z-40 bg-white/95 backdrop-blur-sm border-b py-2 px-4 -mx-4 mb-4">
         <div className="flex items-center justify-between gap-2">
-          {/* Filter Sheet */}
-          <Sheet>
-            <SheetTrigger asChild>
-              <Button variant="outline" size="sm" className="relative">
-                <Filter className="h-4 w-4 mr-2" />
-                Filters
-                {activeFiltersCount > 0 && (
-                  <Badge className="absolute -top-2 -right-2 h-5 w-5 p-0 flex items-center justify-center bg-amber-600">
-                    {activeFiltersCount}
-                  </Badge>
-                )}
-              </Button>
-            </SheetTrigger>
+          {/* Left: Filter button + result count */}
+          <div className="flex items-center gap-2">
+            <Sheet>
+              <SheetTrigger asChild>
+                <Button variant="outline" size="sm" className="relative h-8 px-3">
+                  <Filter className="h-4 w-4" />
+                  {activeFiltersCount > 0 && (
+                    <Badge className="absolute -top-1.5 -right-1.5 h-4 w-4 p-0 flex items-center justify-center bg-amber-600 text-[10px]">
+                      {activeFiltersCount}
+                    </Badge>
+                  )}
+                </Button>
+              </SheetTrigger>
             <SheetContent side="left" className="w-80 overflow-y-auto">
               <SheetHeader>
                 <SheetTitle className="flex items-center gap-2">
@@ -165,12 +165,16 @@ export default function FilterPanel({ categories }: FilterPanelProps) {
               </div>
             </SheetContent>
           </Sheet>
+            <span className="text-xs text-gray-500">
+              <span className="font-semibold text-gray-700">{filteredCount}</span> products
+            </span>
+          </div>
 
-          {/* Sort & View Controls */}
-          <div className="flex items-center gap-2">
+          {/* Right: Compact sort + view controls */}
+          <div className="flex items-center gap-1.5">
             <Select value={sortBy} onValueChange={(v) => setSortBy(v as 'name' | 'code' | 'category')}>
-              <SelectTrigger className="w-32 h-9">
-                <SelectValue placeholder="Sort by" />
+              <SelectTrigger className="w-24 h-8 text-xs">
+                <SelectValue placeholder="Sort" />
               </SelectTrigger>
               <SelectContent>
                 <SelectItem value="name">Name</SelectItem>
@@ -179,26 +183,26 @@ export default function FilterPanel({ categories }: FilterPanelProps) {
               </SelectContent>
             </Select>
             
-            <Button variant="outline" size="icon" className="h-9 w-9" onClick={toggleSortOrder}>
-              <ArrowUpDown className={`h-4 w-4 transition-transform ${sortOrder === 'desc' ? 'rotate-180' : ''}`} />
+            <Button variant="ghost" size="icon" className="h-8 w-8" onClick={toggleSortOrder}>
+              <ArrowUpDown className={`h-3.5 w-3.5 transition-transform ${sortOrder === 'desc' ? 'rotate-180' : ''}`} />
             </Button>
 
-            <div className="hidden sm:flex border rounded-lg">
+            <div className="hidden sm:flex border rounded-md">
               <Button
                 variant={viewMode === 'grid' ? 'secondary' : 'ghost'}
                 size="icon"
-                className="h-9 w-9 rounded-r-none"
+                className="h-8 w-8 rounded-r-none"
                 onClick={() => setViewMode('grid')}
               >
-                <Grid3X3 className="h-4 w-4" />
+                <Grid3X3 className="h-3.5 w-3.5" />
               </Button>
               <Button
                 variant={viewMode === 'list' ? 'secondary' : 'ghost'}
                 size="icon"
-                className="h-9 w-9 rounded-l-none"
+                className="h-8 w-8 rounded-l-none"
                 onClick={() => setViewMode('list')}
               >
-                <List className="h-4 w-4" />
+                <List className="h-3.5 w-3.5" />
               </Button>
             </div>
           </div>

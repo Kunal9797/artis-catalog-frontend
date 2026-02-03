@@ -10,6 +10,7 @@ interface FilterState {
   viewMode: 'grid' | 'list';
   sortBy: 'name' | 'code' | 'category';
   sortOrder: 'asc' | 'desc';
+  filteredCount: number;
 }
 
 interface FilterActions {
@@ -21,6 +22,7 @@ interface FilterActions {
   setSortBy: (sort: 'name' | 'code' | 'category') => void;
   toggleSortOrder: () => void;
   resetFilters: () => void;
+  setFilteredCount: (count: number) => void;
 }
 
 type FilterStore = FilterState & FilterActions;
@@ -33,6 +35,7 @@ const initialState: FilterState = {
   viewMode: 'grid',
   sortBy: 'name',
   sortOrder: 'asc',
+  filteredCount: 0,
 };
 
 export const useFilterStore = create<FilterStore>()(
@@ -62,6 +65,7 @@ export const useFilterStore = create<FilterStore>()(
         set((state) => ({ sortOrder: state.sortOrder === 'asc' ? 'desc' : 'asc' })),
       
       resetFilters: () => set(initialState),
+      setFilteredCount: (count) => set({ filteredCount: count }),
     }),
     {
       name: 'artis-catalog-filters',

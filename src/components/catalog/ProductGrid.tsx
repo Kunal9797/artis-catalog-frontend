@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Package } from 'lucide-react';
 import ProductCard from './ProductCard';
@@ -13,7 +13,7 @@ interface ProductGridProps {
 }
 
 export default function ProductGrid({ products }: ProductGridProps) {
-  const { catalogs, categories, showUnmatched, searchQuery, sortBy, sortOrder } = useFilterStore();
+  const { catalogs, categories, showUnmatched, searchQuery, sortBy, sortOrder, setFilteredCount } = useFilterStore();
 
   const filteredProducts = useMemo(() => {
     let filtered = products;
@@ -58,6 +58,11 @@ export default function ProductGrid({ products }: ProductGridProps) {
 
     return filtered;
   }, [products, catalogs, categories, showUnmatched, searchQuery, sortBy, sortOrder]);
+
+  // Update filtered count in store for mobile filter bar
+  useEffect(() => {
+    setFilteredCount(filteredProducts.length);
+  }, [filteredProducts.length, setFilteredCount]);
 
   if (filteredProducts.length === 0) {
     return (

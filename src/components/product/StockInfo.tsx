@@ -95,12 +95,12 @@ export default function StockInfo({ product }: StockInfoProps) {
           )}
 
           {/* Average Consumption */}
-          {history && history.averageMonthly != null && (
+          {stockData && stockData.avgConsumption != null && (
             <div>
               <Separator className="mb-4" />
               <div className="flex items-center justify-between mb-2">
                 <span className="text-sm text-gray-500">Avg. Monthly Consumption</span>
-                {history.trend && (
+                {history?.trend && (
                   <div className="flex items-center gap-1">
                     {getTrendIcon(history.trend)}
                     <span className="text-xs text-gray-500 capitalize">{history.trend}</span>
@@ -109,14 +109,14 @@ export default function StockInfo({ product }: StockInfoProps) {
               </div>
               <div className="flex items-baseline gap-2">
                 <span className="text-2xl font-bold text-gray-900">
-                  {history.averageMonthly.toFixed(1)}
+                  {stockData.avgConsumption.toFixed(1)}
                 </span>
                 <span className="text-base text-gray-600">kg/month</span>
               </div>
-              {history.totalConsumption != null && (
+              {history?.totalConsumption != null && (
                 <>
                   <p className="text-xs text-gray-400 mt-1">
-                    ≈ {Math.round(history.averageMonthly * 4).toLocaleString()} sheets/month (est.)
+                    ≈ {Math.round(stockData.avgConsumption * 4).toLocaleString()} sheets/month (est.)
                   </p>
                   <p className="text-xs text-gray-500">
                     Last 6 months: {history.totalConsumption} kg total

@@ -124,7 +124,7 @@ export default function ProductInfo({ product }: ProductInfoProps) {
               )}
 
               {/* Avg Consumption */}
-              {product.consumptionHistory?.averageMonthly != null && (
+              {product.stockData?.avgConsumption != null && (
                 <div>
                   {product.stockData?.currentStock != null && (
                     <div className="border-t border-amber-200 mb-4" />
@@ -135,12 +135,12 @@ export default function ProductInfo({ product }: ProductInfoProps) {
                   </div>
                   <div className="flex items-baseline gap-2">
                     <span className="text-4xl font-bold text-amber-900">
-                      {product.consumptionHistory.averageMonthly.toFixed(1)}
+                      {product.stockData.avgConsumption.toFixed(1)}
                     </span>
                     <span className="text-xl text-amber-700">kg/mo</span>
                   </div>
                   <p className="text-xs text-amber-600 mt-1">
-                    ≈ {Math.round(product.consumptionHistory.averageMonthly * 4).toLocaleString()} sheets/mo
+                    ≈ {Math.round(product.stockData.avgConsumption * 4).toLocaleString()} sheets/mo
                   </p>
                 </div>
               )}
